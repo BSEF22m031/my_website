@@ -1,0 +1,57 @@
+﻿@{
+    int candidateCount = ViewBag.Count ?? 0;
+    List<CandidateModel> candidates = ViewBag.Candidates as List<CandidateModel> ?? new List<CandidateModel>(); 
+}
+
+<div class="container py-5">
+    <h2 class="text-center text-primary mb-4">Add Candidate Details</h2>
+
+    <form method="POST" action="/AddElection/AddCandidates">
+        <div class="card p-4 shadow-sm">
+            <div class="form-group mb-4">
+                <label class="form-label fw-bold">
+                    Select Candidates (You can choose only @candidateCount candidates):
+                </label>
+               @*  <select class="form-select" multiple name="SelectedCandidateIds" required> *@
+                    @foreach (var candidate in candidates)
+                    {
+                        <option value="@candidate.CandidateId">
+                            @candidate.Name
+                        </option>
+                    }
+                </select>
+            </div>
+
+            <div class="mt-4">
+                <h5 class="fw-bold text-primary">Selected Candidates:</h5>
+                <table class="table table-bordered">
+                    <thead>
+                        <tr>
+                            <th>Candidate Name</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @for (int i = 0; i < candidateCount; i++)
+                        {
+                            <tr>
+                                <td>
+                                    <select name="SelectedCandidateIds[@i]" class="form-select" required>
+                                        <option value="">Select Candidate</option>
+                                        @foreach (var candidate in candidates)
+                                        {
+                                            <option value="@candidate.CandidateId">@candidate.Name</option>
+                                        }
+                                    </select>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+
+            <div class="text-center mt-4">
+                <button type="submit" class="btn btn-primary btn-lg">Submit Election</button>
+            </div>
+        </div>
+    </form>
+</div>

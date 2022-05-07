@@ -1,0 +1,39 @@
+﻿@{
+    ViewData["Title"] = "Sign Up";
+    var role = ViewData["Role"];
+}
+
+<h2>Sign Up - Role: @role</h2>
+
+<form method="post">
+    <div>
+        <label>Username</label>
+        <input type="text" name="Username" required />
+    </div>
+
+    <div>
+        <label>Password</label>
+        <input type="password" name="Password" required />
+    </div>
+
+    <div>
+        <label>Email</label>
+        <input type="email" name="Email" required />
+    </div>
+
+    <div>
+        <label>ID Number</label>
+        <input type="text" name="IdNumber" required />
+    </div>
+
+    <div>
+        <label>Phone Number</label>
+        <input type="text" name="PhoneNumber" required />
+    </div>
+
+    <!-- Hidden field to pass the selected role -->
+    <input type="hidden" name="Role" value="@role" />
+
+    <button type="submit">Sign Up</button>
+</form>
+

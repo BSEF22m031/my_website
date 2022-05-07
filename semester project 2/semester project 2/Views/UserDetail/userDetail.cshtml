@@ -1,0 +1,35 @@
+﻿@model semester_project_2.Models.User
+@{
+    ViewData["Title"] = "User Detail";
+}
+
+<div class="container py-5">
+    <h2 class="text-center text-primary mb-4">User Detail Lookup</h2>
+
+    <div class="card shadow mb-4">
+        <div class="card-body">
+            <h5 class="card-title text-center">Enter CNIC</h5>
+            <form action="/UserDetail/GetUserDetail" method="POST">
+                <div class="mb-3">
+                    <label for="cnic" class="form-label">CNIC</label>
+                    <input type="text" class="form-control" id="cnic" name="cnic" placeholder="Enter CNIC" required>
+                </div>
+                <button type="submit" class="btn btn-primary w-100">Search</button>
+            </form>
+        </div>
+    </div>
+
+    @if (Model != null)
+    {
+        <div class="card shadow">
+            <div class="card-body">
+                <h5 class="card-title text-center">User Details</h5>
+                <p><strong>Full Name:</strong> @Model.FullName</p>
+                <p><strong>Email:</strong> @Model.Email</p>
+                <p><strong>Username:</strong> @Model.Username</p>
+                <p><strong>CNIC:</strong> @Model.IDNumber</p>
+                <p><strong>Account Created At:</strong> @Model.CreatedAt.ToString("yyyy-MM-dd HH:mm:ss")</p>
+            </div>
+        </div>
+    }
+

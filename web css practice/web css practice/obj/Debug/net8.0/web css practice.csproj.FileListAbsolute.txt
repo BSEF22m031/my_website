@@ -1,0 +1,35 @@
+C:\Users\raomu_pttvukn\source\repos\web css practice\web css practice\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\raomu_pttvukn\source\repos\web css practice\web css practice\bin\Debug\net8.0\appsettings.json
+C:\Users\raomu_pttvukn\source\repos\web css practice\web css practice\bin\Debug\net8.0\web css practice.staticwebassets.runtime.json
+C:\Users\raomu_pttvukn\source\repos\web css practice\web css practice\bin\Debug\net8.0\web css practice.staticwebassets.endpoints.json
+C:\Users\raomu_pttvukn\source\repos\web css practice\web css practice\bin\Debug\net8.0\web css practice.exe
+C:\Users\raomu_pttvukn\source\repos\web css practice\web css practice\bin\Debug\net8.0\web css practice.deps.json
+C:\Users\raomu_pttvukn\source\repos\web css practice\web css practice\bin\Debug\net8.0\web css practice.runtimeconfig.json
+C:\Users\raomu_pttvukn\source\repos\web css practice\web css practice\bin\Debug\net8.0\web css practice.dll
+C:\Users\raomu_pttvukn\source\repos\web css practice\web css practice\bin\Debug\net8.0\web css practice.pdb
+C:\Users\raomu_pttvukn\source\repos\web css practice\web css practice\obj\Debug\net8.0\web css practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raomu_pttvukn\source\repos\web css practice\web css practice\obj\Debug\net8.0\web css practice.AssemblyInfoInputs.cache
+C:\Users\raomu_pttvukn\source\repos\web css practice\web css practice\obj\Debug\net8.0\web css practice.AssemblyInfo.cs
+C:\Users\raomu_pttvukn\source\repos\web css practice\web css practice\obj\Debug\net8.0\web css practice.csproj.CoreCompileInputs.cache
+C:\Users\raomu_pttvukn\source\repos\web css practice\web css practice\obj\Debug\net8.0\web css practice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\raomu_pttvukn\source\repos\web css practice\web css practice\obj\Debug\net8.0\web css practice.RazorAssemblyInfo.cache
+C:\Users\raomu_pttvukn\source\repos\web css practice\web css practice\obj\Debug\net8.0\web css practice.RazorAssemblyInfo.cs
+C:\Users\raomu_pttvukn\source\repos\web css practice\web css practice\obj\Debug\net8.0\web css practice.sourcelink.json
+C:\Users\raomu_pttvukn\source\repos\web css practice\web css practice\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\raomu_pttvukn\source\repos\web css practice\web css practice\obj\Debug\net8.0\scopedcss\bundle\web css practice.styles.css
+C:\Users\raomu_pttvukn\source\repos\web css practice\web css practice\obj\Debug\net8.0\scopedcss\projectbundle\web css practice.bundle.scp.css
+C:\Users\raomu_pttvukn\source\repos\web css practice\web css practice\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\raomu_pttvukn\source\repos\web css practice\web css practice\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\raomu_pttvukn\source\repos\web css practice\web css practice\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\raomu_pttvukn\source\repos\web css practice\web css practice\obj\Debug\net8.0\staticwebassets\msbuild.web css practice.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\raomu_pttvukn\source\repos\web css practice\web css practice\obj\Debug\net8.0\staticwebassets\msbuild.web css practice.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\raomu_pttvukn\source\repos\web css practice\web css practice\obj\Debug\net8.0\staticwebassets\msbuild.build.web css practice.props
+C:\Users\raomu_pttvukn\source\repos\web css practice\web css practice\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.web css practice.props
+C:\Users\raomu_pttvukn\source\repos\web css practice\web css practice\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.web css practice.props
+C:\Users\raomu_pttvukn\source\repos\web css practice\web css practice\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\raomu_pttvukn\source\repos\web css practice\web css practice\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\raomu_pttvukn\source\repos\web css practice\web css practice\obj\Debug\net8.0\web css practice.dll
+C:\Users\raomu_pttvukn\source\repos\web css practice\web css practice\obj\Debug\net8.0\refint\web css practice.dll
+C:\Users\raomu_pttvukn\source\repos\web css practice\web css practice\obj\Debug\net8.0\web css practice.pdb
+C:\Users\raomu_pttvukn\source\repos\web css practice\web css practice\obj\Debug\net8.0\web css practice.genruntimeconfig.cache
+C:\Users\raomu_pttvukn\source\repos\web css practice\web css practice\obj\Debug\net8.0\ref\web css practice.dll

@@ -1,0 +1,33 @@
+﻿@model List<weblab_4.Models.Product>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Products</title>
+</head>
+<body>
+    <p>
+        <table>
+            <thead>Product List</thead>
+            <tbody>
+                <tr>
+                    <td>Product Id</td>
+                    <td>Product Name</td>
+                    <td>Product Price</td>
+                </tr>
+                @foreach (var product in @Model)
+                {
+                    <h1></h1>
+                    <tr>
+                        <td>@product.Id</td>
+                        <td>@product.Name</td>
+                        <td>@product.price</td>
+                        <h6>select any of the product above</h6>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </p>
+</body>
+</html>

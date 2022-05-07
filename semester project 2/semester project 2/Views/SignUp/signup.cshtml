@@ -1,0 +1,65 @@
+﻿@{
+    var errorMessage = TempData["NotExistMessage"] as string;
+    var errorMessage1 = TempData["SignupErrorMessage"] as string;
+}
+
+@if (!string.IsNullOrEmpty(errorMessage))
+{
+    <div class="alert alert-danger">
+        @errorMessage
+    </div>
+}
+@if (!string.IsNullOrEmpty(errorMessage1))
+{
+    <div class="alert alert-danger">
+        @errorMessage1
+    </div>
+}
+<section id="signup" class="container my-5">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card shadow p-4">
+                <h2 class="text-center mb-4" style="color: #004080;">Sign Up</h2>
+                <form action="/SignUp/signup" method="POST">
+                    <div class="mb-3">
+                        <label for="fullname" class="form-label">Full Name</label>
+                        <input type="text" class="form-control" id="fullname" name="fullname" required>
+                    </div>
+                    <div class="mb-3">
+                        <label for="email" class="form-label">Email Address</label>
+                        <input type="email" class="form-control" id="email" name="email" required>
+                    </div>
+                    <div class="mb-3">
+                        <label for="username" class="form-label">Username</label>
+                        <input type="text" class="form-control" id="username" name="username" required>
+                    </div>
+                    <div class="mb-3">
+                        <label for="id-number" class="form-label">ID Card Number</label>
+                        <input type="text" class="form-control" id="id-number" name="idNumber" required>
+                    </div>
+                    <div class="mb-3">
+                        <label for="password" class="form-label">Password</label>
+                        <input type="password" class="form-control" id="password" name="password" required>
+                    </div>
+                    @if (!string.IsNullOrEmpty(ViewBag.Message))
+                    {
+                        <div class="mt-4">
+                            @if (ViewBag.Message == "Please change your username. 'admin' is not allowed.")
+                            {
+                                <div class="alert alert-danger">@ViewBag.Message</div>
+                            }
+                            else
+                            {
+                                <div class="alert alert-success">@ViewBag.Message</div>
+                            }
+                        </div>
+                    }
+                    <button type="submit" class="btn btn-primary w-100">Sign Up</button>
+                </form>
+                <div class="text-center mt-3">
+                    <p>Already have an account? <a href="https://localhost:7267/LoginPage/login" style="color: #004080;">Login</a></p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

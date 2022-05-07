@@ -1,0 +1,188 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+    
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+
+
+body {
+    background-image: url('https://media.istockphoto.com/id/1710661883/photo/online-voting-in-the-ballot-box.jpg?s=612x612&w=0&k=20&c=D9y8w62Kd29fkvRX3E-xU6CGMqorB4RBWG0BIrmRUM8=');
+  background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-family: 'Arial', sans-serif;
+}
+
+
+
+.login-container {
+    max-width: 800px;
+    margin: 50px auto;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    display: flex;
+}
+
+.login-form {
+    padding: 40px;
+    flex: 1;
+}
+
+    .login-form h2 {
+        margin-bottom: 20px;
+    }
+
+    .login-form .form-control {
+        border-radius: 30px;
+        background-color: #f5f7fa;
+        border: none;
+        padding: 10px 20px;
+        margin-bottom: 20px;
+    }
+
+    .login-form .btn {
+        border-radius: 30px;
+        background: linear-gradient(to right, #fc5c7d, #6a82fb);
+        border: none;
+        padding: 10px 20px;
+        color: #fff;
+        width: 100%;
+    }
+
+    .login-form .form-check-label {
+        margin-left: 10px;
+    }
+
+    .login-form .forgot-password {
+        float: right;
+        margin-top: 10px;
+    }
+
+    .login-form .social-icons {
+        margin-top: 20px;
+    }
+
+        .login-form .social-icons a {
+            margin: 0 10px;
+            color: #333;
+        }
+
+.login-info {
+    background: linear-gradient(to right, #fc5c7d, #6a82fb);
+    color: #fff;
+    padding: 40px;
+    flex: 1;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+    .login-info h2 {
+        margin-bottom: 20px;
+    }
+
+    .login-info .btn {
+        border-radius: 30px;
+        background: #fff;
+        color: #fc5c7d;
+        border: none;
+        padding: 10px 20px;
+    }
+
+/* Common Styles for All Role Boxes */
+.role-box {
+    width: 100%;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white; 
+    border-radius: 8px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    margin-bottom: 20px;
+    cursor: pointer;
+    background-color: rgba(0, 0, 0, 0.5); 
+}
+
+/* Voter Box */
+.voter-box {
+    background-image: url('https://cdn.create.vista.com/api/media/small/234227752/stock-photo-voter-election-world-background-rendering-world-country-map-political-background');
+    background-size: cover;
+    background-position: center;
+}
+
+    .voter-box:hover {
+        opacity: 0.9;
+    }
+
+    .voter-box .role-btn {
+        background-color: transparent;
+        border: none;
+        font-size: 20px;
+        font-weight: bold;
+        color: white; 
+    }
+
+/* Candidate Box */
+.candidate-box {
+    background-image: url('https://c8.alamy.com/comp/R9WTNT/candidate-election-on-a-world-background-3d-rendering-world-country-map-as-political-background-concept-voting-freedom-democracy-candidate-concep-R9WTNT.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+    .candidate-box:hover {
+        opacity: 0.9;
+    }
+
+    .candidate-box .role-btn {
+        background-color: transparent;
+        border: none;
+        font-size: 20px;
+        font-weight: bold;
+        color: white; 
+    }
+
+/* Administrator Box */
+.admin-box {
+    background-image: url('https://c8.alamy.com/comp/HYCH96/administrator-icon-administrator-website-button-on-white-background-HYCH96.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+    .admin-box:hover {
+        opacity: 0.9;
+    }
+
+    .admin-box .role-btn {
+        background-color: transparent;
+        border: none;
+        font-size: 20px;
+        font-weight: bold;
+        color: white; 
+    }
+
+.role-btn:hover {
+    color: #f8f9fa; 
+    text-decoration: underline;
+}
+

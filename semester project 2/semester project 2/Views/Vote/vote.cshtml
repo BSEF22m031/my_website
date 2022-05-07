@@ -1,0 +1,63 @@
+﻿@model List<semester_project_2.Models.ElectionManagement>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/7.0.5/signalr.min.js"></script>
+
+<div class="container py-5">
+    <h2 class="text-center text-primary mb-4">Vote for Your Candidate</h2>
+
+    <div class="row text-center">
+        @foreach (var candidate in Model)
+        {
+            <div class="col-md-6 mb-4">
+                <div class="card shadow">
+                    <img src="@candidate.CandidateImage" class="card-img-top" style="height:20rem" alt="@candidate.CandidateName">
+                    <div class="card-body">
+                        <h5 class="card-title">@candidate.CandidateName</h5>
+                        <p class="text-muted">Party: @candidate.CandidateParty</p>
+
+                        @if (Context.Request.Cookies["HasVoted"] == null)
+                        {
+                            <form action="/Vote/vote" method="POST">
+                                <input type="hidden" name="candidateId" value="@candidate.TempCandidateId">
+                                <input type="hidden" name="electionId" value="@candidate.ElectionId">
+                                <button type="submit" class="btn btn-primary w-100">Vote</button>
+                            </form>
+                        }
+                        else
+                        {
+                            <p class="text-danger">You have already voted!</p>
+                        }
+                    </div>
+                </div>
+            </div>
+        }
+
+    </div>
+
+    <!-- Live Results -->
+    <div class="result-box bg-light p-4 rounded shadow-sm">
+        <h3 class="text-center text-dark mb-4">Live Results</h3>
+        <div class="row text-center">
+            @foreach (var candidate in Model.OrderByDescending(c => c.CandidateVoteCount))
+            {
+                <div class="col-md-6">
+                    <h5 class="text-primary">@candidate.CandidateName Votes</h5>
+                    <p class="fs-4" id="voteCount-@candidate.TempCandidateId">@candidate.CandidateVoteCount</p>
+                </div>
+            }
+        </div>
+    </div>
+   
+    <script>
+        var connection = new signalR.HubConnectionBuilder().withUrl("/voteHub").build();
+
+        connection.on("ReceiveVoteUpdate", function (candidateId, newVoteCount) {
+            // Update vote count in the UI
+            document.getElementById("voteCount-" + candidateId).innerText = newVoteCount;
+        });
+
+        connection.start().catch(function (err) {
+            return console.error(err.toString());
+        });
+    </script>
+</div>
+

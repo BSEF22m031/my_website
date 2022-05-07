@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\raomu_pttvukn\\source\\repos\\task-2-lab-06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8CCE80-00F1-461A-A128-AEF5F23C641D}|task-2-lab-06\\task-2-lab-06.vcxproj|C:\\Users\\raomu_pttvukn\\source\\repos\\task-2-lab-06\\task-2-lab-06\\task-4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B8CCE80-00F1-461A-A128-AEF5F23C641D}|task-2-lab-06\\task-2-lab-06.vcxproj|solutionrelative:task-2-lab-06\\task-4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8CCE80-00F1-461A-A128-AEF5F23C641D}|task-2-lab-06\\task-2-lab-06.vcxproj|C:\\Users\\raomu_pttvukn\\source\\repos\\task-2-lab-06\\task-2-lab-06\\task-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B8CCE80-00F1-461A-A128-AEF5F23C641D}|task-2-lab-06\\task-2-lab-06.vcxproj|solutionrelative:task-2-lab-06\\task-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8CCE80-00F1-461A-A128-AEF5F23C641D}|task-2-lab-06\\task-2-lab-06.vcxproj|C:\\Users\\raomu_pttvukn\\source\\repos\\task-2-lab-06\\task-2-lab-06\\task-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B8CCE80-00F1-461A-A128-AEF5F23C641D}|task-2-lab-06\\task-2-lab-06.vcxproj|solutionrelative:task-2-lab-06\\task-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "task-3.cpp",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\task-2-lab-06\\task-2-lab-06\\task-3.cpp",
+              "RelativeDocumentMoniker": "task-2-lab-06\\task-3.cpp",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\task-2-lab-06\\task-2-lab-06\\task-3.cpp",
+              "RelativeToolTip": "task-2-lab-06\\task-3.cpp",
+              "ViewState": "AQIAADwAAAAAAAAAAAAmwEcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-16T11:36:14.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "task-4.cpp",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\task-2-lab-06\\task-2-lab-06\\task-4.cpp",
+              "RelativeDocumentMoniker": "task-2-lab-06\\task-4.cpp",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\task-2-lab-06\\task-2-lab-06\\task-4.cpp",
+              "RelativeToolTip": "task-2-lab-06\\task-4.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-16T11:33:39.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "task-2.cpp",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\task-2-lab-06\\task-2-lab-06\\task-2.cpp",
+              "RelativeDocumentMoniker": "task-2-lab-06\\task-2.cpp",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\task-2-lab-06\\task-2-lab-06\\task-2.cpp",
+              "RelativeToolTip": "task-2-lab-06\\task-2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-16T11:18:45.712Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

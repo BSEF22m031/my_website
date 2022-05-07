@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\raomu_pttvukn\\source\\repos\\tik_tak\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6EE30D-0C3D-447B-A396-7FA1614E29DF}|tik_tak\\tik_tak.vcxproj|C:\\Users\\raomu_pttvukn\\source\\repos\\tik_tak\\tik_tak\\file-2-task.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9E6EE30D-0C3D-447B-A396-7FA1614E29DF}|tik_tak\\tik_tak.vcxproj|solutionrelative:tik_tak\\file-2-task.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6EE30D-0C3D-447B-A396-7FA1614E29DF}|tik_tak\\tik_tak.vcxproj|C:\\Users\\raomu_pttvukn\\source\\repos\\tik_tak\\tik_tak\\file-2-task.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9E6EE30D-0C3D-447B-A396-7FA1614E29DF}|tik_tak\\tik_tak.vcxproj|solutionrelative:tik_tak\\file-2-task.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6EE30D-0C3D-447B-A396-7FA1614E29DF}|tik_tak\\tik_tak.vcxproj|C:\\Users\\raomu_pttvukn\\source\\repos\\tik_tak\\tik_tak\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9E6EE30D-0C3D-447B-A396-7FA1614E29DF}|tik_tak\\tik_tak.vcxproj|solutionrelative:tik_tak\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\tik_tak\\tik_tak\\FileName.cpp",
+              "RelativeDocumentMoniker": "tik_tak\\FileName.cpp",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\tik_tak\\tik_tak\\FileName.cpp",
+              "RelativeToolTip": "tik_tak\\FileName.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-19T09:12:27.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "file-2-task.h",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\tik_tak\\tik_tak\\file-2-task.h",
+              "RelativeDocumentMoniker": "tik_tak\\file-2-task.h",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\tik_tak\\tik_tak\\file-2-task.h",
+              "RelativeToolTip": "tik_tak\\file-2-task.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-19T09:12:22.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "file-2-task.cpp",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\tik_tak\\tik_tak\\file-2-task.cpp",
+              "RelativeDocumentMoniker": "tik_tak\\file-2-task.cpp",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\tik_tak\\tik_tak\\file-2-task.cpp",
+              "RelativeToolTip": "tik_tak\\file-2-task.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-19T09:12:07.318Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

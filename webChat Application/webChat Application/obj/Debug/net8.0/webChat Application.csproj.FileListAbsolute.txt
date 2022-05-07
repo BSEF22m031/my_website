@@ -1,0 +1,45 @@
+C:\Users\raomu_pttvukn\source\repos\webChat Application\webChat Application\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\raomu_pttvukn\source\repos\webChat Application\webChat Application\bin\Debug\net8.0\appsettings.json
+C:\Users\raomu_pttvukn\source\repos\webChat Application\webChat Application\bin\Debug\net8.0\webChat Application.staticwebassets.runtime.json
+C:\Users\raomu_pttvukn\source\repos\webChat Application\webChat Application\bin\Debug\net8.0\webChat Application.staticwebassets.endpoints.json
+C:\Users\raomu_pttvukn\source\repos\webChat Application\webChat Application\bin\Debug\net8.0\webChat Application.exe
+C:\Users\raomu_pttvukn\source\repos\webChat Application\webChat Application\bin\Debug\net8.0\webChat Application.deps.json
+C:\Users\raomu_pttvukn\source\repos\webChat Application\webChat Application\bin\Debug\net8.0\webChat Application.runtimeconfig.json
+C:\Users\raomu_pttvukn\source\repos\webChat Application\webChat Application\bin\Debug\net8.0\webChat Application.dll
+C:\Users\raomu_pttvukn\source\repos\webChat Application\webChat Application\bin\Debug\net8.0\webChat Application.pdb
+C:\Users\raomu_pttvukn\source\repos\webChat Application\webChat Application\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\raomu_pttvukn\source\repos\webChat Application\webChat Application\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\raomu_pttvukn\source\repos\webChat Application\webChat Application\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\raomu_pttvukn\source\repos\webChat Application\webChat Application\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\raomu_pttvukn\source\repos\webChat Application\webChat Application\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\raomu_pttvukn\source\repos\webChat Application\webChat Application\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\raomu_pttvukn\source\repos\webChat Application\webChat Application\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\raomu_pttvukn\source\repos\webChat Application\webChat Application\bin\Debug\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\raomu_pttvukn\source\repos\webChat Application\webChat Application\obj\Debug\net8.0\webChat Application.csproj.AssemblyReference.cache
+C:\Users\raomu_pttvukn\source\repos\webChat Application\webChat Application\obj\Debug\net8.0\webChat Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raomu_pttvukn\source\repos\webChat Application\webChat Application\obj\Debug\net8.0\webChat Application.AssemblyInfoInputs.cache
+C:\Users\raomu_pttvukn\source\repos\webChat Application\webChat Application\obj\Debug\net8.0\webChat Application.AssemblyInfo.cs
+C:\Users\raomu_pttvukn\source\repos\webChat Application\webChat Application\obj\Debug\net8.0\webChat Application.csproj.CoreCompileInputs.cache
+C:\Users\raomu_pttvukn\source\repos\webChat Application\webChat Application\obj\Debug\net8.0\webChat Application.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\raomu_pttvukn\source\repos\webChat Application\webChat Application\obj\Debug\net8.0\webChat Application.RazorAssemblyInfo.cache
+C:\Users\raomu_pttvukn\source\repos\webChat Application\webChat Application\obj\Debug\net8.0\webChat Application.RazorAssemblyInfo.cs
+C:\Users\raomu_pttvukn\source\repos\webChat Application\webChat Application\obj\Debug\net8.0\webChat Application.sourcelink.json
+C:\Users\raomu_pttvukn\source\repos\webChat Application\webChat Application\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\raomu_pttvukn\source\repos\webChat Application\webChat Application\obj\Debug\net8.0\scopedcss\bundle\webChat Application.styles.css
+C:\Users\raomu_pttvukn\source\repos\webChat Application\webChat Application\obj\Debug\net8.0\scopedcss\projectbundle\webChat Application.bundle.scp.css
+C:\Users\raomu_pttvukn\source\repos\webChat Application\webChat Application\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\raomu_pttvukn\source\repos\webChat Application\webChat Application\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\raomu_pttvukn\source\repos\webChat Application\webChat Application\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\raomu_pttvukn\source\repos\webChat Application\webChat Application\obj\Debug\net8.0\staticwebassets\msbuild.webChat Application.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\raomu_pttvukn\source\repos\webChat Application\webChat Application\obj\Debug\net8.0\staticwebassets\msbuild.webChat Application.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\raomu_pttvukn\source\repos\webChat Application\webChat Application\obj\Debug\net8.0\staticwebassets\msbuild.build.webChat Application.props
+C:\Users\raomu_pttvukn\source\repos\webChat Application\webChat Application\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.webChat Application.props
+C:\Users\raomu_pttvukn\source\repos\webChat Application\webChat Application\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.webChat Application.props
+C:\Users\raomu_pttvukn\source\repos\webChat Application\webChat Application\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\raomu_pttvukn\source\repos\webChat Application\webChat Application\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\raomu_pttvukn\source\repos\webChat Application\webChat Application\obj\Debug\net8.0\webChat .F20F4D8B.Up2Date
+C:\Users\raomu_pttvukn\source\repos\webChat Application\webChat Application\obj\Debug\net8.0\webChat Application.dll
+C:\Users\raomu_pttvukn\source\repos\webChat Application\webChat Application\obj\Debug\net8.0\refint\webChat Application.dll
+C:\Users\raomu_pttvukn\source\repos\webChat Application\webChat Application\obj\Debug\net8.0\webChat Application.pdb
+C:\Users\raomu_pttvukn\source\repos\webChat Application\webChat Application\obj\Debug\net8.0\webChat Application.genruntimeconfig.cache
+C:\Users\raomu_pttvukn\source\repos\webChat Application\webChat Application\obj\Debug\net8.0\ref\webChat Application.dll

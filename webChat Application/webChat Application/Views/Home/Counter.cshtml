@@ -1,0 +1,30 @@
+﻿@{
+    ViewData["Title"] = "Real-Time Counter";
+}
+
+<h2>Real-Time Counter</h2>
+<p id="counterValue">0</p>
+<button id="incrementButton">Increment</button>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/7.0.5/signalr.min.js"></script>
+<script>
+    // Connect to the SignalR hub
+    const connection = new signalR.HubConnectionBuilder()
+        .withUrl("/counterHub")
+        .build();
+
+    // Start the connection
+    connection.start().then(() => {
+        console.log("Connected to SignalR Hub!");
+    }).catch(err => console.error("SignalR Error: ", err));
+
+    // Receive counter updates from the hub
+    connection.on("UpdateCounter", (counter) => {
+        document.getElementById("counterValue").innerText = counter;
+    });
+
+    // Button click to send IncrementCounter to the hub
+    document.getElementById("incrementButton").addEventListener("click", function () {
+        connection.invoke("IncrementCounter").catch(err => console.error("Error calling hub: ", err));
+    });
+</script>

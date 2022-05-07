@@ -1,0 +1,509 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\semester project 2.bundle.scp.css",
+      "PackagePath": "staticwebassets\\semester project 2.6f1uxsnuwz.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\images\\Aliya Hamza-w.jpg",
+      "PackagePath": "staticwebassets\\images\\Aliya Hamza-w.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\images\\Chaudhary_Parvez_Elahi.jpg",
+      "PackagePath": "staticwebassets\\images\\Chaudhary_Parvez_Elahi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\images\\Election-Process-Flow-Chart-Template-edit-online.png",
+      "PackagePath": "staticwebassets\\images\\Election-Process-Flow-Chart-Template-edit-online.png"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\images\\Emblem_of_the_Election_Commission_of_Pakistan.svg",
+      "PackagePath": "staticwebassets\\images\\Emblem_of_the_Election_Commission_of_Pakistan.svg"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\images\\Hina Rabbani Khar.jpg",
+      "PackagePath": "staticwebassets\\images\\Hina Rabbani Khar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\images\\Maulana_Fazal-ur-Rehman.png",
+      "PackagePath": "staticwebassets\\images\\Maulana_Fazal-ur-Rehman.png"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\images\\Mr Asad Qaiser Final photo.jpg",
+      "PackagePath": "staticwebassets\\images\\Mr Asad Qaiser Final photo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\images\\Muhammad Ali khan.jpg",
+      "PackagePath": "staticwebassets\\images\\Muhammad Ali khan.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\images\\Muhammad Aslam batooni-bl.jpg",
+      "PackagePath": "staticwebassets\\images\\Muhammad Aslam batooni-bl.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\images\\President_of_Pakistan_Dr_Arif_Alvi-w.jpg",
+      "PackagePath": "staticwebassets\\images\\President_of_Pakistan_Dr_Arif_Alvi-w.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\images\\Sardar_Akhtar_Mengal_(cropped)-bl.jpg",
+      "PackagePath": "staticwebassets\\images\\Sardar_Akhtar_Mengal_(cropped)-bl.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\images\\Senator_Shibli_Faraz-w.jpg",
+      "PackagePath": "staticwebassets\\images\\Senator_Shibli_Faraz-w.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\images\\Shehbaz_Sharif_meets_Putin_(2024-07-03)_(2)_(cropped).jpg",
+      "PackagePath": "staticwebassets\\images\\Shehbaz_Sharif_meets_Putin_(2024-07-03)_(2)_(cropped).jpg"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\images\\abdul qudos-bl.jpg",
+      "PackagePath": "staticwebassets\\images\\abdul qudos-bl.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\images\\abdul wali kakar-bl.jpg",
+      "PackagePath": "staticwebassets\\images\\abdul wali kakar-bl.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\images\\ahsan iqbal.png",
+      "PackagePath": "staticwebassets\\images\\ahsan iqbal.png"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\images\\akram durani.jpg",
+      "PackagePath": "staticwebassets\\images\\akram durani.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\images\\ali amin-w.png",
+      "PackagePath": "staticwebassets\\images\\ali amin-w.png"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\images\\ameer  Ali shah.jpg",
+      "PackagePath": "staticwebassets\\images\\ameer  Ali shah.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\images\\asad umer-w.jpg",
+      "PackagePath": "staticwebassets\\images\\asad umer-w.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\images\\asif li zardari.jpg",
+      "PackagePath": "staticwebassets\\images\\asif li zardari.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\images\\asma-jahangir.jpg",
+      "PackagePath": "staticwebassets\\images\\asma-jahangir.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\images\\babar hassan.png",
+      "PackagePath": "staticwebassets\\images\\babar hassan.png"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\images\\bilawal.jpg",
+      "PackagePath": "staticwebassets\\images\\bilawal.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\images\\bushra gohar.jpg",
+      "PackagePath": "staticwebassets\\images\\bushra gohar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\images\\faisal javed -w.jpg",
+      "PackagePath": "staticwebassets\\images\\faisal javed -w.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\images\\faryal-talpur.jpeg",
+      "PackagePath": "staticwebassets\\images\\faryal-talpur.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\images\\fozia sardar.jpg",
+      "PackagePath": "staticwebassets\\images\\fozia sardar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\images\\hasil-bl.jpg",
+      "PackagePath": "staticwebassets\\images\\hasil-bl.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\images\\header image.jpg",
+      "PackagePath": "staticwebassets\\images\\header image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\images\\imran khan.jpg",
+      "PackagePath": "staticwebassets\\images\\imran khan.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\images\\jam kamal khan-bl.jpg",
+      "PackagePath": "staticwebassets\\images\\jam kamal khan-bl.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\images\\javed-w.jpeg",
+      "PackagePath": "staticwebassets\\images\\javed-w.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\images\\justice ikram.png",
+      "PackagePath": "staticwebassets\\images\\justice ikram.png"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\images\\khurshid shah.jpg",
+      "PackagePath": "staticwebassets\\images\\khurshid shah.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\images\\layout header screenshot.PNG",
+      "PackagePath": "staticwebassets\\images\\layout header screenshot.PNG"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\images\\layout header.PNG",
+      "PackagePath": "staticwebassets\\images\\layout header.PNG"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\images\\login screen shot.PNG",
+      "PackagePath": "staticwebassets\\images\\login screen shot.PNG"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\images\\maiza hameed-w.jpg",
+      "PackagePath": "staticwebassets\\images\\maiza hameed-w.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\images\\maryam nawaz.jpg",
+      "PackagePath": "staticwebassets\\images\\maryam nawaz.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\images\\mehmood.jpeg",
+      "PackagePath": "staticwebassets\\images\\mehmood.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\images\\mle-female-count-province-wise.jpg",
+      "PackagePath": "staticwebassets\\images\\mle-female-count-province-wise.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\images\\mna candidate-w.jpg",
+      "PackagePath": "staticwebassets\\images\\mna candidate-w.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\images\\murad ali shah.jpg",
+      "PackagePath": "staticwebassets\\images\\murad ali shah.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\images\\naheed akhtar-bl.jpg",
+      "PackagePath": "staticwebassets\\images\\naheed akhtar-bl.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\images\\nisar ahmad durani.png",
+      "PackagePath": "staticwebassets\\images\\nisar ahmad durani.png"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\images\\pervaiz khatak.jpg",
+      "PackagePath": "staticwebassets\\images\\pervaiz khatak.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\images\\rauf mengal-bl.webp",
+      "PackagePath": "staticwebassets\\images\\rauf mengal-bl.webp"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\images\\saad rizvi.jpg",
+      "PackagePath": "staticwebassets\\images\\saad rizvi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\images\\sanaullah.jpg",
+      "PackagePath": "staticwebassets\\images\\sanaullah.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\images\\sarfraz baghti-bl.jpg",
+      "PackagePath": "staticwebassets\\images\\sarfraz baghti-bl.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\images\\screenshot 4.PNG",
+      "PackagePath": "staticwebassets\\images\\screenshot 4.PNG"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\images\\shah Muhammad jatoi.png",
+      "PackagePath": "staticwebassets\\images\\shah Muhammad jatoi.png"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\images\\shah-mahmod-qi=ureshi.jpg",
+      "PackagePath": "staticwebassets\\images\\shah-mahmod-qi=ureshi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\images\\sherry rehman.jpg",
+      "PackagePath": "staticwebassets\\images\\sherry rehman.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\images\\shirin mirzai.jpg",
+      "PackagePath": "staticwebassets\\images\\shirin mirzai.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\images\\shukat usefzai.jpg",
+      "PackagePath": "staticwebassets\\images\\shukat usefzai.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\images\\shukat.jpg",
+      "PackagePath": "staticwebassets\\images\\shukat.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\images\\voters-count.jpg",
+      "PackagePath": "staticwebassets\\images\\voters-count.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\images\\zubaida jlal-bl.jpg",
+      "PackagePath": "staticwebassets\\images\\zubaida jlal-bl.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.semester project 2.props",
+      "PackagePath": "build\\semester project 2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.semester project 2.props",
+      "PackagePath": "buildMultiTargeting\\semester project 2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.semester project 2.props",
+      "PackagePath": "buildTransitive\\semester project 2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.semester project 2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.semester project 2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

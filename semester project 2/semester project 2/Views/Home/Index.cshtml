@@ -1,0 +1,158 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+   
+</head>
+<body>
+    <div class="container mt-5">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="card bg-light mb-4">
+                    <div class="card-header bg-primary text-white">
+                        <h3>Upcoming Elections in 2028</h3>
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title">Election Date:</h5>
+                        <p class="card-text"><strong>August 15, 2028</strong></p>
+                        <h5 class="card-title">Election Timings:</h5>
+                        <p class="card-text"><strong>Polling: 9:00 AM to 5:00 PM</strong></p>
+                        <h5 class="card-title">Location:</h5>
+                        <p class="card-text"><strong>Nationwide across Pakistan</strong></p>
+                        <div class="countdown-timer text-center mt-4">
+                            <p>Countdown to the Election:</p>
+                            <div id="countdown" class="h4"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-12">
+                <div class="card bg-light mb-4">
+                    <div class="card-header bg-info text-white">
+                        <h3>Main Candidates of Pakistan</h3>
+                    </div>
+                    <div class="card-body">
+                        <div class="row">
+                            <div class="col-md-3">
+                                <div class="card" >
+                                    <img src="https://bsmedia.business-standard.com/_media/bs/img/about-page/thumb/463_463/1646374701.jpg" class="card-img-top" style=" height:20rem" alt="Candidate 1">
+                                    <div class="card-body text-center">
+                                        <h5 class="card-title">Imran Khan</h5>
+                                        <p class="card-text" >PTI - Pakistan Tehreek-e-Insaf</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-3">
+                                <div class="card">
+                                    <img src="https://hamariweb.com/profiles/images/profile/8983-106.jpg" class="card-img-top" style=" height:20rem" alt="Candidate 2">
+                                    <div class="card-body text-center">
+                                        <h5 class="card-title">Maryam Nawaz</h5>
+                                        <p class="card-text" >PML-N - Pakistan Muslim League</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-3">
+                                <div class="card">
+                                    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Secretary_Blinken_and_Pakistani_Foreign_Minister_Bhutto_Zardari_Deliver_Remarks_%2852387487125%29_%28cropped%29.jpg" class="card-img-top" style=" height:20rem" alt="Candidate 3">
+                                    <div class="card-body text-center">
+                                        <h5 class="card-title">Bilawal Bhutto</h5>
+                                        <p class="card-text" >PPP - Pakistan Peoples Party</p>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-3">
+                                <div class="card" >
+                                    <img src="https://rizvimediaworld.com/wp-content/uploads/2022/02/Pic6-scaled.jpg" class="card-img-top" style=" height:20rem" alt="Candidate 4">
+                                    <div class="card-body text-center">
+                                        <h5 class="card-title">Saad Rizwi</h5>
+                                        <p class="card-text" >TLP - Tahreek-Labaik-Pakistan</p>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-12">
+                <div class="card bg-light mb-4">
+                    <div class="card-header bg-success text-white">
+                        <h3>Previous Election Results</h3>
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title">Election Results for 2023</h5>
+                        <p class="card-text">Here are the results of the 2023 General Elections:</p>
+                        <div class="table-responsive">
+                            <table class="table table-bordered">
+                                <thead>
+                                    <tr>
+                                        <th>Party</th>
+                                        <th>Seats Won</th>
+                                        <th>Percentage of Votes</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>Pakistan Tehreek-e-Insaf (PTI)</td>
+                                        <td>150</td>
+                                        <td>35%</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Pakistan Muslim League-Nawaz (PML-N)</td>
+                                        <td>120</td>
+                                        <td>28%</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Pakistan Peoples Party (PPP)</td>
+                                        <td>100</td>
+                                        <td>24%</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Other Parties</td>
+                                        <td>30</td>
+                                        <td>13%</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    @* <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        var countDownDate = new Date("Aug 15, 2028 09:00:00").getTime();
+
+        var x = setInterval(function () {
+            var now = new Date().getTime();
+            var distance = countDownDate - now;
+
+            var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+            var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+            var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+            var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+            document.getElementById("countdown").innerHTML = days + "d " + hours + "h "
+                + minutes + "m " + seconds + "s ";
+
+            if (distance < 0) {
+                clearInterval(x);
+                document.getElementById("countdown").innerHTML = "Election Started!";
+            }
+        }, 1000);
+    </script> *@
+
+
+
+ 
+</body>
+</html>

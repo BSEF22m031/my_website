@@ -1,0 +1,338 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\raomu_pttvukn\\source\\repos\\Assignment-1-SCD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E44EF14-9E58-41EA-B8FF-89372480801F}|InventoryManagementDTOs\\InventoryManagementDTOs.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\assignment-1-scd\\inventorymanagementdtos\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E44EF14-9E58-41EA-B8FF-89372480801F}|InventoryManagementDTOs\\InventoryManagementDTOs.csproj|solutionrelative:inventorymanagementdtos\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E44EF14-9E58-41EA-B8FF-89372480801F}|InventoryManagementDTOs\\InventoryManagementDTOs.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\assignment-1-scd\\inventorymanagementdtos\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E44EF14-9E58-41EA-B8FF-89372480801F}|InventoryManagementDTOs\\InventoryManagementDTOs.csproj|solutionrelative:inventorymanagementdtos\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E44EF14-9E58-41EA-B8FF-89372480801F}|InventoryManagementDTOs\\InventoryManagementDTOs.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\assignment-1-scd\\inventorymanagementdtos\\inventorytransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E44EF14-9E58-41EA-B8FF-89372480801F}|InventoryManagementDTOs\\InventoryManagementDTOs.csproj|solutionrelative:inventorymanagementdtos\\inventorytransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B94237D-7E7C-44CD-8BD6-83E86AAB5441}|InventoryManagementDAL\\InventoryManagementDAL.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\assignment-1-scd\\inventorymanagementdal\\supplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B94237D-7E7C-44CD-8BD6-83E86AAB5441}|InventoryManagementDAL\\InventoryManagementDAL.csproj|solutionrelative:inventorymanagementdal\\supplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B94237D-7E7C-44CD-8BD6-83E86AAB5441}|InventoryManagementDAL\\InventoryManagementDAL.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\assignment-1-scd\\inventorymanagementdal\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B94237D-7E7C-44CD-8BD6-83E86AAB5441}|InventoryManagementDAL\\InventoryManagementDAL.csproj|solutionrelative:inventorymanagementdal\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B94237D-7E7C-44CD-8BD6-83E86AAB5441}|InventoryManagementDAL\\InventoryManagementDAL.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\assignment-1-scd\\inventorymanagementdal\\isupplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B94237D-7E7C-44CD-8BD6-83E86AAB5441}|InventoryManagementDAL\\InventoryManagementDAL.csproj|solutionrelative:inventorymanagementdal\\isupplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B94237D-7E7C-44CD-8BD6-83E86AAB5441}|InventoryManagementDAL\\InventoryManagementDAL.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\assignment-1-scd\\inventorymanagementdal\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B94237D-7E7C-44CD-8BD6-83E86AAB5441}|InventoryManagementDAL\\InventoryManagementDAL.csproj|solutionrelative:inventorymanagementdal\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B94237D-7E7C-44CD-8BD6-83E86AAB5441}|InventoryManagementDAL\\InventoryManagementDAL.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\assignment-1-scd\\inventorymanagementdal\\inventorytransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B94237D-7E7C-44CD-8BD6-83E86AAB5441}|InventoryManagementDAL\\InventoryManagementDAL.csproj|solutionrelative:inventorymanagementdal\\inventorytransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B94237D-7E7C-44CD-8BD6-83E86AAB5441}|InventoryManagementDAL\\InventoryManagementDAL.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\assignment-1-scd\\inventorymanagementdal\\inventorymanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B94237D-7E7C-44CD-8BD6-83E86AAB5441}|InventoryManagementDAL\\InventoryManagementDAL.csproj|solutionrelative:inventorymanagementdal\\inventorymanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B94237D-7E7C-44CD-8BD6-83E86AAB5441}|InventoryManagementDAL\\InventoryManagementDAL.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\assignment-1-scd\\inventorymanagementdal\\iinventorytransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B94237D-7E7C-44CD-8BD6-83E86AAB5441}|InventoryManagementDAL\\InventoryManagementDAL.csproj|solutionrelative:inventorymanagementdal\\iinventorytransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B94237D-7E7C-44CD-8BD6-83E86AAB5441}|InventoryManagementDAL\\InventoryManagementDAL.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\assignment-1-scd\\inventorymanagementdal\\dbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B94237D-7E7C-44CD-8BD6-83E86AAB5441}|InventoryManagementDAL\\InventoryManagementDAL.csproj|solutionrelative:inventorymanagementdal\\dbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3FA1E35-74E8-40F8-B200-AAF5309FA266}|InventoryManagementBLL\\InventoryManagementBLL.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\assignment-1-scd\\inventorymanagementbll\\productsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3FA1E35-74E8-40F8-B200-AAF5309FA266}|InventoryManagementBLL\\InventoryManagementBLL.csproj|solutionrelative:inventorymanagementbll\\productsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3FA1E35-74E8-40F8-B200-AAF5309FA266}|InventoryManagementBLL\\InventoryManagementBLL.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\assignment-1-scd\\inventorymanagementbll\\supplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3FA1E35-74E8-40F8-B200-AAF5309FA266}|InventoryManagementBLL\\InventoryManagementBLL.csproj|solutionrelative:inventorymanagementbll\\supplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3FA1E35-74E8-40F8-B200-AAF5309FA266}|InventoryManagementBLL\\InventoryManagementBLL.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\assignment-1-scd\\inventorymanagementbll\\stocktransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3FA1E35-74E8-40F8-B200-AAF5309FA266}|InventoryManagementBLL\\InventoryManagementBLL.csproj|solutionrelative:inventorymanagementbll\\stocktransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3FA1E35-74E8-40F8-B200-AAF5309FA266}|InventoryManagementBLL\\InventoryManagementBLL.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\assignment-1-scd\\inventorymanagementbll\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3FA1E35-74E8-40F8-B200-AAF5309FA266}|InventoryManagementBLL\\InventoryManagementBLL.csproj|solutionrelative:inventorymanagementbll\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3FA1E35-74E8-40F8-B200-AAF5309FA266}|InventoryManagementBLL\\InventoryManagementBLL.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\assignment-1-scd\\inventorymanagementbll\\inventoryanalysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3FA1E35-74E8-40F8-B200-AAF5309FA266}|InventoryManagementBLL\\InventoryManagementBLL.csproj|solutionrelative:inventorymanagementbll\\inventoryanalysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F5C2DB-2CC8-4E44-8FB9-5752344FF19C}|Assignment-1-SCD\\Assignment-1-SCD.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\assignment-1-scd\\assignment-1-scd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31F5C2DB-2CC8-4E44-8FB9-5752344FF19C}|Assignment-1-SCD\\Assignment-1-SCD.csproj|solutionrelative:assignment-1-scd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B94237D-7E7C-44CD-8BD6-83E86AAB5441}|InventoryManagementDAL\\InventoryManagementDAL.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\assignment-1-scd\\inventorymanagementdal\\migrations\\20250212162724_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B94237D-7E7C-44CD-8BD6-83E86AAB5441}|InventoryManagementDAL\\InventoryManagementDAL.csproj|solutionrelative:inventorymanagementdal\\migrations\\20250212162724_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250212162724_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\Assignment-1-SCD\\InventoryManagementDAL\\Migrations\\20250212162724_InitialCreate.cs",
+              "RelativeDocumentMoniker": "InventoryManagementDAL\\Migrations\\20250212162724_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\Assignment-1-SCD\\InventoryManagementDAL\\Migrations\\20250212162724_InitialCreate.cs",
+              "RelativeToolTip": "InventoryManagementDAL\\Migrations\\20250212162724_InitialCreate.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T16:27:25.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\Assignment-1-SCD\\InventoryManagementDAL\\DbContextFactory.cs",
+              "RelativeDocumentMoniker": "InventoryManagementDAL\\DbContextFactory.cs",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\Assignment-1-SCD\\InventoryManagementDAL\\DbContextFactory.cs",
+              "RelativeToolTip": "InventoryManagementDAL\\DbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T16:26:42.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IInventoryTransactionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\Assignment-1-SCD\\InventoryManagementDAL\\IInventoryTransactionRepository.cs",
+              "RelativeDocumentMoniker": "InventoryManagementDAL\\IInventoryTransactionRepository.cs",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\Assignment-1-SCD\\InventoryManagementDAL\\IInventoryTransactionRepository.cs",
+              "RelativeToolTip": "InventoryManagementDAL\\IInventoryTransactionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T13:55:56.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InventoryTransactionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\Assignment-1-SCD\\InventoryManagementDAL\\InventoryTransactionRepository.cs",
+              "RelativeDocumentMoniker": "InventoryManagementDAL\\InventoryTransactionRepository.cs",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\Assignment-1-SCD\\InventoryManagementDAL\\InventoryTransactionRepository.cs",
+              "RelativeToolTip": "InventoryManagementDAL\\InventoryTransactionRepository.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T13:55:06.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISupplierRepository.cs",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\Assignment-1-SCD\\InventoryManagementDAL\\ISupplierRepository.cs",
+              "RelativeDocumentMoniker": "InventoryManagementDAL\\ISupplierRepository.cs",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\Assignment-1-SCD\\InventoryManagementDAL\\ISupplierRepository.cs",
+              "RelativeToolTip": "InventoryManagementDAL\\ISupplierRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T13:54:38.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\Assignment-1-SCD\\InventoryManagementDAL\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "InventoryManagementDAL\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\Assignment-1-SCD\\InventoryManagementDAL\\IProductRepository.cs",
+              "RelativeToolTip": "InventoryManagementDAL\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T13:46:52.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\Assignment-1-SCD\\InventoryManagementDAL\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "InventoryManagementDAL\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\Assignment-1-SCD\\InventoryManagementDAL\\ProductRepository.cs",
+              "RelativeToolTip": "InventoryManagementDAL\\ProductRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowBAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T13:53:34.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InventoryManagementDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\Assignment-1-SCD\\InventoryManagementDAL\\InventoryManagementDbContext.cs",
+              "RelativeDocumentMoniker": "InventoryManagementDAL\\InventoryManagementDbContext.cs",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\Assignment-1-SCD\\InventoryManagementDAL\\InventoryManagementDbContext.cs",
+              "RelativeToolTip": "InventoryManagementDAL\\InventoryManagementDbContext.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowAwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T20:34:11.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InventoryTransaction.cs",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\Assignment-1-SCD\\InventoryManagementDTOs\\InventoryTransaction.cs",
+              "RelativeDocumentMoniker": "InventoryManagementDTOs\\InventoryTransaction.cs",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\Assignment-1-SCD\\InventoryManagementDTOs\\InventoryTransaction.cs",
+              "RelativeToolTip": "InventoryManagementDTOs\\InventoryTransaction.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T19:56:12.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SupplierRepository.cs",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\Assignment-1-SCD\\InventoryManagementDAL\\SupplierRepository.cs",
+              "RelativeDocumentMoniker": "InventoryManagementDAL\\SupplierRepository.cs",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\Assignment-1-SCD\\InventoryManagementDAL\\SupplierRepository.cs",
+              "RelativeToolTip": "InventoryManagementDAL\\SupplierRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T13:54:08.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SupplierService.cs",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\Assignment-1-SCD\\InventoryManagementBLL\\SupplierService.cs",
+              "RelativeDocumentMoniker": "InventoryManagementBLL\\SupplierService.cs",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\Assignment-1-SCD\\InventoryManagementBLL\\SupplierService.cs",
+              "RelativeToolTip": "InventoryManagementBLL\\SupplierService.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwDgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T13:30:15.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\Assignment-1-SCD\\InventoryManagementDTOs\\Supplier.cs",
+              "RelativeDocumentMoniker": "InventoryManagementDTOs\\Supplier.cs",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\Assignment-1-SCD\\InventoryManagementDTOs\\Supplier.cs",
+              "RelativeToolTip": "InventoryManagementDTOs\\Supplier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T19:55:51.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\Assignment-1-SCD\\InventoryManagementDTOs\\Product.cs",
+              "RelativeDocumentMoniker": "InventoryManagementDTOs\\Product.cs",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\Assignment-1-SCD\\InventoryManagementDTOs\\Product.cs",
+              "RelativeToolTip": "InventoryManagementDTOs\\Product.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAqwCQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T19:54:48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\Assignment-1-SCD\\Assignment-1-SCD\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment-1-SCD\\Program.cs",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\Assignment-1-SCD\\Assignment-1-SCD\\Program.cs",
+              "RelativeToolTip": "Assignment-1-SCD\\Program.cs",
+              "ViewState": "AgIAAFIBAAAAAAAAAAAiwAoBAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T19:44:33.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\Assignment-1-SCD\\InventoryManagementBLL\\ProductService.cs",
+              "RelativeDocumentMoniker": "InventoryManagementBLL\\ProductService.cs",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\Assignment-1-SCD\\InventoryManagementBLL\\ProductService.cs",
+              "RelativeToolTip": "InventoryManagementBLL\\ProductService.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAgwA0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T13:25:04.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StockTransactionService.cs",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\Assignment-1-SCD\\InventoryManagementBLL\\StockTransactionService.cs",
+              "RelativeDocumentMoniker": "InventoryManagementBLL\\StockTransactionService.cs",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\Assignment-1-SCD\\InventoryManagementBLL\\StockTransactionService.cs",
+              "RelativeToolTip": "InventoryManagementBLL\\StockTransactionService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwB0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T13:26:42.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "InventoryAnalysisService.cs",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\Assignment-1-SCD\\InventoryManagementBLL\\InventoryAnalysisService.cs",
+              "RelativeDocumentMoniker": "InventoryManagementBLL\\InventoryAnalysisService.cs",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\Assignment-1-SCD\\InventoryManagementBLL\\InventoryAnalysisService.cs",
+              "RelativeToolTip": "InventoryManagementBLL\\InventoryAnalysisService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T13:27:49.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductSearchService.cs",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\Assignment-1-SCD\\InventoryManagementBLL\\ProductSearchService.cs",
+              "RelativeDocumentMoniker": "InventoryManagementBLL\\ProductSearchService.cs",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\Assignment-1-SCD\\InventoryManagementBLL\\ProductSearchService.cs",
+              "RelativeToolTip": "InventoryManagementBLL\\ProductSearchService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T13:28:23.163Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

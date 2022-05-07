@@ -1,0 +1,15 @@
+C:\Users\raomu_pttvukn\source\repos\Assignment-1-SCD\InventoryManagementDTOs\bin\Debug\net8.0\InventoryManagementDTOs.deps.json
+C:\Users\raomu_pttvukn\source\repos\Assignment-1-SCD\InventoryManagementDTOs\bin\Debug\net8.0\InventoryManagementDTOs.runtimeconfig.json
+C:\Users\raomu_pttvukn\source\repos\Assignment-1-SCD\InventoryManagementDTOs\bin\Debug\net8.0\InventoryManagementDTOs.dll
+C:\Users\raomu_pttvukn\source\repos\Assignment-1-SCD\InventoryManagementDTOs\bin\Debug\net8.0\InventoryManagementDTOs.pdb
+C:\Users\raomu_pttvukn\source\repos\Assignment-1-SCD\InventoryManagementDTOs\obj\Debug\net8.0\InventoryManagementDTOs.csproj.AssemblyReference.cache
+C:\Users\raomu_pttvukn\source\repos\Assignment-1-SCD\InventoryManagementDTOs\obj\Debug\net8.0\InventoryManagementDTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raomu_pttvukn\source\repos\Assignment-1-SCD\InventoryManagementDTOs\obj\Debug\net8.0\InventoryManagementDTOs.AssemblyInfoInputs.cache
+C:\Users\raomu_pttvukn\source\repos\Assignment-1-SCD\InventoryManagementDTOs\obj\Debug\net8.0\InventoryManagementDTOs.AssemblyInfo.cs
+C:\Users\raomu_pttvukn\source\repos\Assignment-1-SCD\InventoryManagementDTOs\obj\Debug\net8.0\InventoryManagementDTOs.csproj.CoreCompileInputs.cache
+C:\Users\raomu_pttvukn\source\repos\Assignment-1-SCD\InventoryManagementDTOs\obj\Debug\net8.0\InventoryManagementDTOs.sourcelink.json
+C:\Users\raomu_pttvukn\source\repos\Assignment-1-SCD\InventoryManagementDTOs\obj\Debug\net8.0\InventoryManagementDTOs.dll
+C:\Users\raomu_pttvukn\source\repos\Assignment-1-SCD\InventoryManagementDTOs\obj\Debug\net8.0\refint\InventoryManagementDTOs.dll
+C:\Users\raomu_pttvukn\source\repos\Assignment-1-SCD\InventoryManagementDTOs\obj\Debug\net8.0\InventoryManagementDTOs.pdb
+C:\Users\raomu_pttvukn\source\repos\Assignment-1-SCD\InventoryManagementDTOs\obj\Debug\net8.0\InventoryManagementDTOs.genruntimeconfig.cache
+C:\Users\raomu_pttvukn\source\repos\Assignment-1-SCD\InventoryManagementDTOs\obj\Debug\net8.0\ref\InventoryManagementDTOs.dll

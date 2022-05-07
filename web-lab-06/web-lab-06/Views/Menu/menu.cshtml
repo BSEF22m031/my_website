@@ -1,0 +1,55 @@
+﻿@model List<web_lab_06.Models.Menu>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menu</title>
+    <link rel="stylesheet" href="~/css/menu.css"> 
+</head>
+<body>
+    <h1>Menu</h1>
+
+    <form method="post" action="/Menu/menu">
+        <input type="text" name="searchTerm" placeholder="Search for a menu item..." />
+        <button type="submit">Search</button>
+    </form>
+
+    <table>
+        <tbody>
+            @if (Model != null && Model.Any())
+            {
+                <div class="menu-container">
+                    <div class="menu-row">
+                        @foreach (var item in Model)
+                        {
+                            <form method="post" action="/Cart/cart">
+                                <div class="menu-box">
+                                    <h3>@item.ItemName</h3>
+                                    <p>@item.Description</p>
+                                    <p>Price: @item.Price.ToString("C")</p>
+
+                                    <!-- Hidden input to pass the ItemId -->
+                                    <input type="hidden" name="ItemId" value="@item.ItemId" />
+                                    <button type="submit" class="add-to-cart-btn">Add to Cart</button>
+                                </div>
+                            </form>
+                        }
+                    </div>
+                </div>
+            }
+           
+
+            
+            else
+            {
+                <tr>
+                    <td colspan="5">No items found.</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+  </body>
+</html>

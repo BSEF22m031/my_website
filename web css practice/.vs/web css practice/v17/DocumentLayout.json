@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\raomu_pttvukn\\source\\repos\\web css practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC18669C-3E70-419B-8C78-A149D8AABCED}|web css practice\\web css practice.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\web css practice\\web css practice\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC18669C-3E70-419B-8C78-A149D8AABCED}|web css practice\\web css practice.csproj|solutionrelative:web css practice\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC18669C-3E70-419B-8C78-A149D8AABCED}|web css practice\\web css practice.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\web css practice\\web css practice\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BC18669C-3E70-419B-8C78-A149D8AABCED}|web css practice\\web css practice.csproj|solutionrelative:web css practice\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC18669C-3E70-419B-8C78-A149D8AABCED}|web css practice\\web css practice.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\web css practice\\web css practice\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC18669C-3E70-419B-8C78-A149D8AABCED}|web css practice\\web css practice.csproj|solutionrelative:web css practice\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\web css practice\\web css practice\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "web css practice\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\web css practice\\web css practice\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "web css practice\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-10T18:51:58.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\web css practice\\web css practice\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "web css practice\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\web css practice\\web css practice\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "web css practice\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-07T21:33:17.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\web css practice\\web css practice\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "web css practice\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\web css practice\\web css practice\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "web css practice\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAEsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-07T21:31:58.657Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

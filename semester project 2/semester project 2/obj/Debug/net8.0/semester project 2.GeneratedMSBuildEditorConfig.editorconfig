@@ -1,0 +1,169 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = semester_project_2
+build_property.RootNamespace = semester_project_2
+build_property.ProjectDir = C:\Users\raomu_pttvukn\source\repos\semester project 2\semester project 2\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\raomu_pttvukn\source\repos\semester project 2\semester project 2
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/raomu_pttvukn/source/repos/semester project 2/semester project 2/Views/About/aboutUs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcYWJvdXRVcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raomu_pttvukn/source/repos/semester project 2/semester project 2/Views/AddElection/AddCandidates.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRkRWxlY3Rpb25cQWRkQ2FuZGlkYXRlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raomu_pttvukn/source/repos/semester project 2/semester project 2/Views/AddElection/addElection.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRkRWxlY3Rpb25cYWRkRWxlY3Rpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raomu_pttvukn/source/repos/semester project 2/semester project 2/Views/BlochistanCandidates/blochistan.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvY2hpc3RhbkNhbmRpZGF0ZXNcYmxvY2hpc3Rhbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raomu_pttvukn/source/repos/semester project 2/semester project 2/Views/Candidate/Candidates.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FuZGlkYXRlXENhbmRpZGF0ZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raomu_pttvukn/source/repos/semester project 2/semester project 2/Views/CastVote/castVote.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FzdFZvdGVcY2FzdFZvdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raomu_pttvukn/source/repos/semester project 2/semester project 2/Views/Contact/contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxjb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raomu_pttvukn/source/repos/semester project 2/semester project 2/Views/Dashboard/dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXGRhc2hib2FyZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raomu_pttvukn/source/repos/semester project 2/semester project 2/Views/Elections/elections.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWxlY3Rpb25zXGVsZWN0aW9ucy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raomu_pttvukn/source/repos/semester project 2/semester project 2/Views/General/learnMore.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJhbFxsZWFybk1vcmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raomu_pttvukn/source/repos/semester project 2/semester project 2/Views/General/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJhbFxfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raomu_pttvukn/source/repos/semester project 2/semester project 2/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raomu_pttvukn/source/repos/semester project 2/semester project 2/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raomu_pttvukn/source/repos/semester project 2/semester project 2/Views/IslamabadCandidates/islamabad.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXNsYW1hYmFkQ2FuZGlkYXRlc1xpc2xhbWFiYWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raomu_pttvukn/source/repos/semester project 2/semester project 2/Views/KPKCandidates/kpk.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS1BLQ2FuZGlkYXRlc1xrcGsuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raomu_pttvukn/source/repos/semester project 2/semester project 2/Views/LoginPage/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5QYWdlXExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raomu_pttvukn/source/repos/semester project 2/semester project 2/Views/LoginPage/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5QYWdlXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raomu_pttvukn/source/repos/semester project 2/semester project 2/Views/ManageElection/manageElection.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlRWxlY3Rpb25cbWFuYWdlRWxlY3Rpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raomu_pttvukn/source/repos/semester project 2/semester project 2/Views/PunjabCandidates/punjab.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVuamFiQ2FuZGlkYXRlc1xwdW5qYWIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raomu_pttvukn/source/repos/semester project 2/semester project 2/Views/Report/report.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwb3J0XHJlcG9ydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raomu_pttvukn/source/repos/semester project 2/semester project 2/Views/Result/result.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdWx0XHJlc3VsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raomu_pttvukn/source/repos/semester project 2/semester project 2/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raomu_pttvukn/source/repos/semester project 2/semester project 2/Views/Shared/_Layout1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQxLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raomu_pttvukn/source/repos/semester project 2/semester project 2/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raomu_pttvukn/source/repos/semester project 2/semester project 2/Views/SignUp/signup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2lnblVwXHNpZ251cC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raomu_pttvukn/source/repos/semester project 2/semester project 2/Views/SignUp/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2lnblVwXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raomu_pttvukn/source/repos/semester project 2/semester project 2/Views/SindhCandidates/sindh.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2luZGhDYW5kaWRhdGVzXHNpbmRoLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raomu_pttvukn/source/repos/semester project 2/semester project 2/Views/UpcomingElections/upcomingElection.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXBjb21pbmdFbGVjdGlvbnNcdXBjb21pbmdFbGVjdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raomu_pttvukn/source/repos/semester project 2/semester project 2/Views/UpcomingRegister/upcomingRegister.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXBjb21pbmdSZWdpc3Rlclx1cGNvbWluZ1JlZ2lzdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raomu_pttvukn/source/repos/semester project 2/semester project 2/Views/UserDetail/userDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckRldGFpbFx1c2VyRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raomu_pttvukn/source/repos/semester project 2/semester project 2/Views/UserManagement/userManagement.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlck1hbmFnZW1lbnRcdXNlck1hbmFnZW1lbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raomu_pttvukn/source/repos/semester project 2/semester project 2/Views/VoteCasting/voteCasting.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm90ZUNhc3Rpbmdcdm90ZUNhc3RpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raomu_pttvukn/source/repos/semester project 2/semester project 2/Views/Voters/voters.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm90ZXJzXHZvdGVycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raomu_pttvukn/source/repos/semester project 2/semester project 2/Views/Vote/vote.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm90ZVx2b3RlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raomu_pttvukn/source/repos/semester project 2/semester project 2/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raomu_pttvukn/source/repos/semester project 2/semester project 2/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/raomu_pttvukn/source/repos/semester project 2/semester project 2/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-nlvcbfogzl

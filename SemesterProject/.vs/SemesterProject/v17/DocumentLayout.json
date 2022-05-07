@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\raomu_pttvukn\\source\\repos\\SemesterProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{461B77BC-59C9-4BBB-BBA7-42B1650C3D4B}|SemesterProject\\SemesterProject.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\semesterproject\\semesterproject\\views\\home\\role.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{461B77BC-59C9-4BBB-BBA7-42B1650C3D4B}|SemesterProject\\SemesterProject.csproj|solutionrelative:semesterproject\\views\\home\\role.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{461B77BC-59C9-4BBB-BBA7-42B1650C3D4B}|SemesterProject\\SemesterProject.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\semesterproject\\semesterproject\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{461B77BC-59C9-4BBB-BBA7-42B1650C3D4B}|SemesterProject\\SemesterProject.csproj|solutionrelative:semesterproject\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{461B77BC-59C9-4BBB-BBA7-42B1650C3D4B}|SemesterProject\\SemesterProject.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\semesterproject\\semesterproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{461B77BC-59C9-4BBB-BBA7-42B1650C3D4B}|SemesterProject\\SemesterProject.csproj|solutionrelative:semesterproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{461B77BC-59C9-4BBB-BBA7-42B1650C3D4B}|SemesterProject\\SemesterProject.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\semesterproject\\semesterproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{461B77BC-59C9-4BBB-BBA7-42B1650C3D4B}|SemesterProject\\SemesterProject.csproj|solutionrelative:semesterproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{461B77BC-59C9-4BBB-BBA7-42B1650C3D4B}|SemesterProject\\SemesterProject.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\semesterproject\\semesterproject\\views\\home\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{461B77BC-59C9-4BBB-BBA7-42B1650C3D4B}|SemesterProject\\SemesterProject.csproj|solutionrelative:semesterproject\\views\\home\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{461B77BC-59C9-4BBB-BBA7-42B1650C3D4B}|SemesterProject\\SemesterProject.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\semesterproject\\semesterproject\\views\\shared\\_layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{461B77BC-59C9-4BBB-BBA7-42B1650C3D4B}|SemesterProject\\SemesterProject.csproj|solutionrelative:semesterproject\\views\\shared\\_layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "role.cshtml",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\SemesterProject\\SemesterProject\\Views\\Home\\role.cshtml",
+              "RelativeDocumentMoniker": "SemesterProject\\Views\\Home\\role.cshtml",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\SemesterProject\\SemesterProject\\Views\\Home\\role.cshtml*",
+              "RelativeToolTip": "SemesterProject\\Views\\Home\\role.cshtml*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T11:29:37.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "signup.cshtml",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\SemesterProject\\SemesterProject\\Views\\Home\\signup.cshtml",
+              "RelativeDocumentMoniker": "SemesterProject\\Views\\Home\\signup.cshtml",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\SemesterProject\\SemesterProject\\Views\\Home\\signup.cshtml",
+              "RelativeToolTip": "SemesterProject\\Views\\Home\\signup.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T10:32:43.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\SemesterProject\\SemesterProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SemesterProject\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\SemesterProject\\SemesterProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SemesterProject\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:22:11.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout1.cshtml",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\SemesterProject\\SemesterProject\\Views\\Shared\\_Layout1.cshtml",
+              "RelativeDocumentMoniker": "SemesterProject\\Views\\Shared\\_Layout1.cshtml",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\SemesterProject\\SemesterProject\\Views\\Shared\\_Layout1.cshtml",
+              "RelativeToolTip": "SemesterProject\\Views\\Shared\\_Layout1.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T09:07:04.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\SemesterProject\\SemesterProject\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "SemesterProject\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\SemesterProject\\SemesterProject\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "SemesterProject\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAAAHUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-28T09:06:03.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\SemesterProject\\SemesterProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SemesterProject\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\SemesterProject\\SemesterProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SemesterProject\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T09:05:25.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

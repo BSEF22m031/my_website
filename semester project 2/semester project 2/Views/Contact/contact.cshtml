@@ -1,0 +1,166 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    
+    <title>Contact Us - Election Commission of Pakistan</title>
+    @{
+        var successMessage = TempData["ContactSuccessMessage"] as string;
+        var errorMessage = TempData["ContactErrorMessage"] as string;
+    }
+
+    @if (!string.IsNullOrEmpty(successMessage))
+    {
+        <div class="alert alert-success">
+            @successMessage
+        </div>
+    }
+
+    @if (!string.IsNullOrEmpty(errorMessage))
+    {
+        <div class="alert alert-danger">
+            @errorMessage
+        </div>
+    }
+   
+</head>
+
+<body>
+
+    <section class="contact-us-section py-5">
+        <div class="container">
+            <h1 class="text-center mb-4" style="color: #004080;">Contact Us</h1>
+            <p class="text-center mb-5">
+                Please contact us if you have any inquiries regarding the election process, voter registration, or if you wish to report any irregularities in the election system. Our team is here to help you!
+            </p>
+
+
+            <div class="election-process-section my-5">
+                <h3 class="mb-4" style="color: #004080;">How Elections Are Conducted</h3>
+                <div class="d-flex overflow-auto">
+                    <div class="process-step card me-3">
+                        <img src="~/images/layout header screenshot.png" alt="Login" class="card-img-top">
+                        <div class="card-body">
+                            <h5 class="card-title">Step 1: Login</h5>
+                            <p class="card-text">Registered voters log in to the system using their credentials.</p>
+                        </div>
+                    </div>
+                    <div class="process-step card me-3">
+                        <img src="~/images/login screen shot.png"  alt="Signup" class="card-img-top">
+                        <div class="card-body">
+                            <h5 class="card-title">Step 2: Signup</h5>
+                            <p class="card-text">If not registered, voters can sign up to access the voting portal.</p>
+                        </div>
+                    </div>
+                    <div class="process-step card me-3">
+                        <img src="~/images/layout header.png"  alt="Elections" class="card-img-top">
+                        <div class="card-body">
+                            <h5 class="card-title">Step 3: Elections</h5>
+                            <p class="card-text">Voters review candidates and participate in the elections.</p>
+                        </div>
+                    </div>
+                    <div class="process-step card me-3">
+                        <img src="~/images/screenshot 4.png"  alt="Cast Vote" class="card-img-top">
+                        <div class="card-body">
+                            <h5 class="card-title">Step 4: Cast Vote</h5>
+                            <p class="card-text">Finally, cast your vote securely in the system.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+
+            <div class="card shadow p-4 mb-5">
+                <h3 class="mb-4" style="color: #004080;">Get in Touch</h3>
+                <form action="/Contact/contact" method="POST">
+                    <div class="mb-3">
+                        <label for="name" class="form-label">Your Name</label>
+                        <input type="text" class="form-control" id="name" name="name" required>
+                    </div>
+                    <div class="mb-3">
+                        <label for="email" class="form-label">Email Address</label>
+                        <input type="email" class="form-control" id="email" name="email" required>
+                    </div>
+                    <div class="mb-3">
+                        <label for="subject" class="form-label">Subject</label>
+                        <input type="text" class="form-control" id="subject" name="subject" required>
+                    </div>
+                    <div class="mb-3">
+                        <label for="message" class="form-label">Message</label>
+                        <textarea class="form-control" id="message" name="message" rows="5" required></textarea>
+                    </div>
+                    <button type="submit" class="btn btn-primary w-100">Submit</button>
+                </form>
+            </div>
+
+            <div class="accordion" id="faqAccordion">
+                <h3 class="mb-4" style="color: #004080;">Frequently Asked Questions</h3>
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="faq1">
+                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#faqCollapse1" aria-expanded="true" aria-controls="faqCollapse1">
+                            How can I register as a voter?
+                        </button>
+                    </h2>
+                    <div id="faqCollapse1" class="accordion-collapse collapse show" aria-labelledby="faq1" data-bs-parent="#faqAccordion">
+                        <div class="accordion-body">
+                            You can register as a voter by visiting your nearest election office with your CNIC and filling out the registration form.
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="faq2">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faqCollapse2" aria-expanded="false" aria-controls="faqCollapse2">
+                            What should I do if I find an issue with my voter information?
+                        </button>
+                    </h2>
+                    <div id="faqCollapse2" class="accordion-collapse collapse" aria-labelledby="faq2" data-bs-parent="#faqAccordion">
+                        <div class="accordion-body">
+                            Please contact your local election office or use our contact form to report the issue.
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="faq3">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faqCollapse3" aria-expanded="false" aria-controls="faqCollapse3">
+                            How can I report election irregularities?
+                        </button>
+                    </h2>
+                    <div id="faqCollapse3" class="accordion-collapse collapse" aria-labelledby="faq3" data-bs-parent="#faqAccordion">
+                        <div class="accordion-body">
+                            You can report election irregularities through our contact form or by calling our helpline.
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="faq4">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faqCollapse4" aria-expanded="false" aria-controls="faqCollapse4">
+                            What documents are required for voter registration?
+                        </button>
+                    </h2>
+                    <div id="faqCollapse4" class="accordion-collapse collapse" aria-labelledby="faq4" data-bs-parent="#faqAccordion">
+                        <div class="accordion-body">
+                            A valid CNIC is required for voter registration. Additional documents may be needed for address verification.
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="faq5">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faqCollapse5" aria-expanded="false" aria-controls="faqCollapse5">
+                            How can I find my polling station?
+                        </button>
+                    </h2>
+                    <div id="faqCollapse5" class="accordion-collapse collapse" aria-labelledby="faq5" data-bs-parent="#faqAccordion">
+                        <div class="accordion-body">
+                            You can find your polling station details by entering your CNIC number on the ECP website or through our helpline.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+   
+</body>
+
+</html>

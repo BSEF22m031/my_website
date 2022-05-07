@@ -1,0 +1,372 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+/* General Header Styling   #f8f9fa  */
+.header-container {
+    background-color: white; /* Light gray background */
+    border-bottom: 2px solid #ddd; /* Subtle border */
+    padding: 10px 20px;
+}
+
+    /* Header Text Styling */
+    .header-container h6 {
+        font-size: 1rem;
+        font-weight: 600;
+        color: #343a40; /* Dark gray text */
+    }
+
+    /* Dropdown Buttons Styling */
+    .header-container .btn-outline-secondary {
+        color: #495057; /* Darker gray for text */
+        border-color: #ced4da; /* Light border */
+        background-color: #ffffff; /* White background */
+    }
+
+        .header-container .btn-outline-secondary:hover {
+            color: #ffffff; /* White text on hover */
+            background-color: #6c757d; /* Bootstrap secondary hover color */
+            border-color: #6c757d;
+        }
+
+    /* Dropdown Menu Styling */
+    .header-container .dropdown-menu {
+        background-color: #ffffff; /* White background */
+        border: 1px solid #ced4da; /* Light border */
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    }
+
+        .header-container .dropdown-menu .dropdown-item {
+            color: #343a40; /* Dark gray text */
+            padding: 10px;
+            transition: background-color 0.3s ease;
+        }
+
+            .header-container .dropdown-menu .dropdown-item:hover {
+                background-color: #f1f1f1; /* Light hover effect */
+                color: #495057; /* Slightly darker text */
+            }
+
+    /* Contact Number Styling */
+    .header-container span {
+        font-size: 0.9rem;
+        color: #495057; /* Muted gray */
+        font-weight: 700; /* Bold for emphasis */
+    }
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+    .header-container {
+        flex-direction: column;
+        text-align: center;
+    }
+
+        .header-container .d-flex {
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .header-container span {
+            margin-top: 5px;
+        }
+}
+
+
+
+/* General Styling */
+.navbar-container {
+    background-color: #f8f9fa; /* Light gray for background */
+    border-bottom: 2px solid #ddd; /* Subtle border */
+    font-family: Arial, sans-serif;
+}
+
+/* Logo Styling */
+.navbar-brand span {
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: #333; /* Dark gray for logo text */
+}
+
+/* Navbar Links */
+.navbar-nav .nav-link {
+    color: #333; /* Dark gray for text */
+    font-size: 1rem;
+    font-weight: 500;
+    transition: color 0.3s ease;
+}
+
+    .navbar-nav .nav-link:hover {
+        color: #0056b3; /* Blue hover effect */
+    }
+
+/* Dropdown Menu Styling */
+.dropdown-menu {
+    background-color: #ffffff; /* White background */
+    border: 1px solid #ced4da; /* Light border */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+    .dropdown-menu .dropdown-item {
+        color: #343a40; /* Dark gray text */
+        font-size: 0.9rem;
+        transition: background-color 0.3s ease;
+    }
+
+        .dropdown-menu .dropdown-item:hover {
+            background-color: #f1f1f1; /* Light gray hover effect */
+        }
+
+/* Right Side Icons */
+.d-flex a {
+    font-size: 0.9rem;
+    color: #333; /* Dark gray text */
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.3s ease;
+}
+
+    .d-flex a:hover {
+        color: #0056b3; /* Blue hover effect */
+    }
+
+/* Responsive Adjustments */
+@media (max-width: 992px) {
+    .navbar-nav {
+        text-align: center;
+    }
+
+    .d-flex {
+        flex-direction: column;
+        align-items: center;
+    }
+}
+.dropdown-menu {
+    width: 300px; /* Adjust width for columns */
+}
+
+/* Styles for the search bar container */
+#searchBar {
+    transition: all 0.3s ease-in-out; /* Smooth transition when collapsing/expanding */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+    z-index: 1000; /* Ensures it stays above other content */
+}
+
+    /* Inner padding and spacing */
+    #searchBar .bg-light {
+        border-radius: 5px; /* Rounded corners for a clean look */
+        padding: 15px;
+        margin-top: 10px; /* Spacing between the navbar and search bar */
+        border: 1px solid #eaeaea; /* Light border for separation */
+    }
+
+    /* Input field styles */
+    #searchBar input.form-control {
+        border-radius: 5px 0 0 5px; /* Rounded corners (left side) */
+        border: 1px solid #ddd; /* Neutral border */
+        box-shadow: none; /* Remove default shadow */
+        font-size: 14px;
+        height: 40px; /* Consistent height */
+    }
+
+    /* Search button styles */
+    #searchBar button.btn-primary {
+        border-radius: 0 5px 5px 0; /* Rounded corners (right side) */
+        font-size: 14px;
+        height: 40px; /* Consistent height */
+        padding: 0 20px;
+    }
+
+    /* Icon in the button */
+    #searchBar button i {
+        margin-right: 5px; /* Space between the icon and text */
+    }
+
+    /* Hover effects for the button */
+    #searchBar button.btn-primary:hover {
+        background-color: #0056b3; /* Slightly darker blue */
+        border-color: #004085; /* Match the darker shade */
+    }
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    #searchBar input.form-control,
+    #searchBar button.btn-primary {
+        font-size: 12px;
+        height: 36px;
+    }
+}
+
+a[data-bs-toggle="collapse"] {
+    color: #6c757d; /* Neutral gray color */
+    font-size: 14px; /* Adjust font size as needed */
+    transition: color 0.3s ease-in-out; /* Smooth hover effect */
+}
+
+    a[data-bs-toggle="collapse"]:hover {
+        color: #0056b3; /* Change color on hover */
+    }
+
+
+a i {
+    font-size: 20px; /* Adjust the size of the icons */
+    color: #6c757d; /* Neutral gray color */
+    transition: color 0.3s ease-in-out; /* Smooth hover effect */
+}
+
+a:hover i {
+    color: #0056b3; /* Change color on hover */
+}
+
+
+.carousel {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    padding: 20px;
+}
+
+    .carousel-caption h5 {
+        font-weight: bold;
+    }
+
+    .carousel-caption p {
+        font-weight: normal;
+    }
+
+
+
+
+
+.carousel-control-prev, .carousel-control-next {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 5;
+    color: #fff;  Arrow color 
+    font-size: 30px;  Adjust size of the arrow 
+}
+
+    .carousel-control-prev i, .carousel-control-next i {
+        font-size: 40px;
+        color: #fff;  Set the icon color 
+    }
+
+
+.card {
+    border-radius: 8px; /* Rounded corners for a softer look */
+    overflow: hidden; /* Ensure the content inside the card fits */
+}
+
+.card-img-top {
+    object-fit: cover; /* Ensures images fit nicely inside the card */
+    height: 200px; /* Fixed height for images */
+}
+
+.card-body {
+    padding: 20px; /* Consistent padding */
+}
+
+.card-title {
+    font-size: 1.2rem; /* Larger title */
+    font-weight: bold;
+}
+
+.card-text {
+    font-size: 1rem; /* Description text size */
+    color: #6c757d; /* Slightly muted color */
+}
+
+.price {
+    font-size: 1.1rem;
+    font-weight: bold;
+    color: #28a745; /* Green color for price */
+}
+
+.card:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle hover effect */
+    transform: scale(1.05); /* Scale up on hover */
+    transition: all 0.3s ease-in-out; /* Smooth transition */
+}
+
+
+footer {
+    background-color: #343a40; /* Dark background for footer */
+}
+
+    footer h5 {
+        font-size: 1.2rem;
+        font-weight: bold;
+        margin-bottom: 1rem;
+    }
+
+    footer ul li {
+        margin-bottom: 0.5rem;
+    }
+
+        footer ul li a {
+            text-decoration: none;
+            color: #ffffff;
+            transition: color 0.3s ease;
+        }
+
+            footer ul li a:hover {
+                color: #ff9800; /* Change color on hover */
+            }
+
+    footer .bi {
+        margin-right: 8px;
+    }
+
+    footer .d-flex {
+        gap: 10px;
+    }
+
+    footer .text-center p {
+        font-size: 0.9rem;
+        color: #b0b0b0; /* Light text for copyright */
+    }
+
+/* Responsive design */
+@media (max-width: 767px) {
+    footer .row > div {
+        margin-bottom: 1.5rem;
+    }
+}
+
+footer .social-media-icons i {
+    font-size: 2px;
+    margin-right: 15px;
+}
+
+footer .social-media-icons a {
+    text-decoration: none;
+    color: white;
+    transition: transform 0.2s;
+}
+
+    footer .social-media-icons a:hover {
+        transform: scale(1.2);
+    }

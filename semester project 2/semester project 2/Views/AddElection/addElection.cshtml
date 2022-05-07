@@ -1,0 +1,40 @@
+﻿@{
+    var errorMessage = TempData["ElectionErrorMessage"] as string;
+}
+
+@if (!string.IsNullOrEmpty(errorMessage))
+{
+    <div class="alert alert-danger">
+        @errorMessage
+    </div>
+}
+
+<div class="container py-5">
+    <h2 class="text-center text-primary mb-4">Add Election Details</h2>
+
+    <form method="POST" action="/AddElection/addElection">
+        <div class="mb-3">
+            <label for="ElectionName" class="form-label">Election Name</label>
+            <input type="text" class="form-control" id="ElectionName" name="ElectionName" required>
+        </div>
+
+        <div class="mb-3">
+            <label for="Description" class="form-label">Election Description</label>
+            <textarea class="form-control" id="Description" name="Description" rows="3" required></textarea>
+        </div>
+
+        <div class="mb-3">
+            <label for="ElectionDate" class="form-label">Election Date</label>
+            <input type="datetime-local" class="form-control" id="ElectionDate" name="ElectionDate" required>
+        </div>
+
+        <div class="mb-3">
+            <label for="CandidateCount" class="form-label">Number of Candidates</label>
+            <input type="number" class="form-control" id="CandidateCount" name="CandidateCount" value="@ViewBag.count" required>
+        </div>
+
+        <div class="text-center">
+            <button type="submit" class="btn btn-primary btn-lg">Next: Add Candidates</button>
+        </div>
+    </form>
+</div>

@@ -1,0 +1,60 @@
+﻿<div class="container py-5">
+    <h2 class="text-center text-primary mb-4">Registration Status For Elections</h2>
+
+    <div class="register-section bg-light p-5 rounded shadow-sm mb-5">
+        <h3 class="text-center text-dark mb-4">Enter Your CNIC Number</h3>
+        <div class="row justify-content-center">
+            <div class="col-md-6">
+                <form action="/VoteCasting/voteCasting" method="POST">
+                    <!-- Hidden input field to pass the ElectionId -->
+                    <input type="hidden" name="ElectionId" value="@ViewBag.ElectionId">
+
+                    <div class="form-group">
+                        <label for="cnic" class="form-label">CNIC Number</label>
+                        <input type="text" id="cnic" name="cnic" class="form-control form-control-lg" placeholder="Enter your 13-digit CNIC" required>
+                        <small class="form-text text-muted">Please enter your CNIC without dashes.</small>
+                    </div>
+                    <button type="submit" class="btn btn-primary btn-lg mt-3 w-100">Check Registration Status</button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    @if (ViewBag.Message == "Submitted")
+    {
+        <div class="status-section bg-light p-5 rounded shadow-sm">
+            <h3 class="text-center text-dark mb-4">Registration Status</h3>
+
+            @if (ViewBag.x == "yes")
+            {
+                <div class="text-center">
+                    <div class="fs-4 text-success">
+                        You are registered for this election!
+                    </div>
+                    <p class="text-center mt-3">
+                        <strong>Voting Status:</strong> <span class="text-primary">Voting is Open</span>
+                    </p>
+                    <p>
+                        <a href="/Vote/vote" class="btn btn-success btn-lg">Cast Your Vote</a>
+                    </p>
+                </div>
+            }
+            else
+            {
+                <div class="text-center mt-5">
+                    <div class="fs-4 text-danger">
+                        You are not registered for this election.
+                    </div>
+                    <p class="text-center mt-3">
+                        <strong>Registration Status:</strong> <span class="text-warning">Sorry, You Are Not Registered</span>
+                    </p>
+                    <div class="text-center mt-5">
+                        <div class="fs-4 text-danger">
+                            Just go and register for this election first.
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    }
+</div>

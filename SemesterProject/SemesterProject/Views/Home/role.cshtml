@@ -1,0 +1,41 @@
+﻿@{
+    ViewData["Title"] = "Role Selection";
+}
+<html >
+
+<body>
+    <div class="container text-center my-5">
+        <h2 class="mb-4 style="color:white;">Which Role Are You Playing?</h2>
+
+        <div class="row justify-content-center">
+            <div class="col-md-3">
+                <form action="/Home/Signup" method="GET">
+                    <input type="hidden" name="role" value="Voter">
+                    <div class="role-box voter-box">
+                        <button type="submit" class="btn role-btn">Voter</button>
+                    </div>
+                </form>
+            </div>
+
+            <div class="col-md-3">
+                <form action="/Home/Signup" method="GET">
+                    <input type="hidden" name="role" value="Candidate">
+                    <div class="role-box candidate-box">
+                        <button type="submit" class="btn role-btn">Candidate</button>
+                    </div>
+                </form>
+            </div>
+
+            <div class="col-md-3">
+                <form action="/Home/Signup" method="GET">
+                    <input type="hidden" name="role" value="Administrator">
+                    <div class="role-box admin-box">
+                        <button type="submit" class="btn role-btn">Administrator</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>

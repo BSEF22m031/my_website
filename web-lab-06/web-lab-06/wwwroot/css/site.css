@@ -1,0 +1,486 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    background-color: #735b4b;
+}
+
+.outer-box-front-page {
+    height: 400px;
+    background-image: url('https://img.freepik.com/free-photo/top-view-delicious-spaghetti-with-copy-space_23-2150857950.jpg');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: white; 
+    font-size: 48px;
+}
+.food-gallery {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    padding: 20px;
+    flex-wrap: wrap;
+    background-color: #735b4b;
+}
+
+.food-box {
+    width:200px;
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    padding: 10px;
+    transition: transform 0.3s ease;
+}
+
+    .food-box:hover {
+        transform: scale(1.05); 
+    }
+
+.food-image {
+    width: 100%; 
+    border-radius: 8px; 
+    margin-bottom: 10px;
+}
+
+.food-name {
+    font-size: 18px;
+    color: #333;   
+    margin: 5px 0; 
+}
+
+.food-price {
+    font-size: 16px;
+    color: #555;       
+    font-weight: bold; 
+    margin: 0;
+}
+.tag-line {
+    width: 100%;
+    height:50px;
+    background-color:brown;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    padding: 10px;
+    transition: transform 0.3s ease;
+    color:antiquewhite;
+    font-size:20px;
+}
+footer {
+    background-color: #333;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    
+}
+
+.footer-box {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #444;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+    .footer-box h3 {
+        margin-bottom: 15px;
+        font-size: 24px;
+        color: #f4a261;
+    }
+
+    .footer-box p {
+        font-size: 16px;
+        margin: 5px 0;
+    }
+
+    .footer-box strong {
+        color: #f4a261;
+    }
+
+footer p {
+    font-size: 14px;
+    color: #bbb;
+}
+.offer-section {
+    text-align: center;
+    margin: 40px 0;
+}
+
+.offer-text {
+    font-size: 28px;
+    color: #333;
+    font-family: Arial, sans-serif;
+    margin-bottom: 20px;
+}
+
+.offer-boxes {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.offer-section {
+    text-align: center;
+    margin: 10px 0;
+}
+
+.offer-text {
+    font-size: 40px;
+    color: #333;
+    font-family: Arial, sans-serif;
+    margin-bottom: 20px;
+    background-color: brown;
+}
+
+.offer-boxes {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.offer-box-container {
+    display: flex;
+    gap: 50px;
+}
+
+.offer-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 250px;
+    height: 150px;
+    border-radius: 8px;
+    border: 2px solid black;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    position: relative;
+    overflow: hidden;
+    transition: transform 0.3s ease;
+    background-color: brown;
+}
+
+    .offer-box:hover {
+        transform: scale(1.05); 
+    }
+
+.delivery {
+    background-image: url('https://cdn-icons-png.flaticon.com/512/3142/3142386.png');
+    background-size: cover;
+    background-position: center;
+}
+
+.dinein {
+    background-image: url('https://cdn-icons-png.flaticon.com/512/3063/3063287.png');
+    background-size: cover;
+    background-position: center;
+}
+
+.box-text {
+    position: absolute;
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6);
+}
+
+
+
+/* General container styling */
+.container {
+    width: 80%;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+   
+}
+
+/* Heading */
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+/* Search bar */
+.search-bar {
+    width: 300px;
+    padding: 10px;
+    margin-right: 10px;
+   
+    font-size: 16px;
+}
+
+.search-button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+    .search-button:hover {
+        background-color: #45a049;
+    }
+
+/* General Reset */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f9fa;
+}
+
+/* Container for Menu */
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Menu Container */
+.menu-container {
+    display: flex;
+    flex-wrap: wrap; /* Allows rows to wrap when space runs out */
+    gap: 20px /* Adds space between boxes */
+    justify-content: space-between; /* Distributes space evenly */
+    padding: 20px;
+}
+
+/* Menu Row */
+.menu-row {
+    display: flex;
+    flex-wrap: wrap; /* Wraps boxes into rows */
+    width: 100%; /* Ensures it spans the full width */
+    margin-bottom:20px;
+}
+
+/* Menu Box */
+.menu-box {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    width: calc(25% - 20px); /* Four boxes in a row with gaps */
+    padding: 15px;
+    text-align: center;
+    transition: transform 0.2s ease-in-out;
+}
+
+    /* Menu Box Hover Effect */
+    .menu-box:hover {
+        transform: scale(1.05);
+        box-shadow: 0 6px 8px rgba(0, 0, 0, 0.2);
+    }
+
+    /* Headings in Boxes */
+    .menu-box h3 {
+        font-size: 1.25em;
+        color: #333;
+        margin-bottom: 10px;
+    }
+
+    /* Descriptions in Boxes */
+    .menu-box p {
+        font-size: 1em;
+        color: #666;
+        margin-bottom: 10px;
+    }
+
+/* Add to Cart Button */
+.add-to-cart-btn {
+    display: inline-block;
+    background-color: #28a745;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+    cursor: pointer;
+    font-size: 1em;
+    transition: background-color 0.3s ease-in-out;
+}
+
+    .add-to-cart-btn:hover {
+        background-color: #218838;
+    }
+
+/* Responsive Design: Medium Screens */
+@media (max-width: 768px) {
+    .menu-box {
+        width: calc(50% - 20px); /* Two boxes per row */
+    }
+}
+
+/* Responsive Design: Small Screens */
+@media (max-width: 576px) {
+    .menu-box {
+        width: 100%; /* One box per row */
+    }
+}
+
+/* General Reset */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-top: 50px;
+    border-radius: 10px;
+}
+
+h2 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+/* Form styling */
+.form-group {
+    margin-bottom: 15px;
+}
+
+    .form-group label {
+        font-weight: bold;
+        margin-bottom: 5px;
+        display: block;
+    }
+
+    .form-group input {
+        width: 100%;
+        padding: 10px;
+        font-size: 16px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        box-sizing: border-box;
+    }
+
+        .form-group input:focus {
+            border-color: #007bff;
+            outline: none;
+        }
+
+/* Submit Button */
+.btn {
+    width: 100%;
+    padding: 12px;
+    background-color: #007bff;
+    color: white;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+    .btn:hover {
+        background-color: #0056b3;
+    }
+
+/* Responsive */
+@media screen and (max-width: 600px) {
+    .container {
+        padding: 15px;
+    }
+
+    .btn {
+        font-size: 14px;
+    }
+}
+
+
+/* General styles for the cart page */
+.cart-container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    background-color: #f9f9f9;
+}
+
+    /* Header styles */
+    .cart-container h1 {
+        font-size: 2rem;
+        margin-bottom: 20px;
+        color: #333;
+    }
+
+/* Style for the cart items container */
+.cart-items {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 20px;
+    justify-items: center;
+    margin-top: 20px;
+}
+
+/* Style for each cart item box */
+.cart-item-box {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 100%;
+    max-width: 300px;
+    transition: transform 0.3s ease;
+}
+
+    .cart-item-box:hover {
+        transform: scale(1.05);
+    }
+
+/* Style for item name */
+.cart-item-name {
+    font-size: 1.25rem;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+/* Style for item quantity */
+.cart-item-quantity,
+.cart-item-price,
+.cart-item-total {
+    font-size: 1rem;
+    color: #555;
+    margin-bottom: 8px;
+}
+
+/* Style for total cost */
+.cart-item-total {
+    font-weight: bold;
+    color: #007bff;
+}

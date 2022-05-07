@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\raomu_pttvukn\\source\\repos\\webChat Application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5B030C-672C-4AAF-B9A7-2BAD78CA7DD5}|webChat Application\\webChat Application.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\webchat application\\webchat application\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A5B030C-672C-4AAF-B9A7-2BAD78CA7DD5}|webChat Application\\webChat Application.csproj|solutionrelative:webchat application\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5B030C-672C-4AAF-B9A7-2BAD78CA7DD5}|webChat Application\\webChat Application.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\webchat application\\webchat application\\views\\home\\counter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A5B030C-672C-4AAF-B9A7-2BAD78CA7DD5}|webChat Application\\webChat Application.csproj|solutionrelative:webchat application\\views\\home\\counter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5B030C-672C-4AAF-B9A7-2BAD78CA7DD5}|webChat Application\\webChat Application.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\webchat application\\webchat application\\counterhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A5B030C-672C-4AAF-B9A7-2BAD78CA7DD5}|webChat Application\\webChat Application.csproj|solutionrelative:webchat application\\counterhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5B030C-672C-4AAF-B9A7-2BAD78CA7DD5}|webChat Application\\webChat Application.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\webchat application\\webchat application\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A5B030C-672C-4AAF-B9A7-2BAD78CA7DD5}|webChat Application\\webChat Application.csproj|solutionrelative:webchat application\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\webChat Application\\webChat Application\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "webChat Application\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\webChat Application\\webChat Application\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "webChat Application\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAACFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-15T13:05:52.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Counter.cshtml",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\webChat Application\\webChat Application\\Views\\Home\\Counter.cshtml",
+              "RelativeDocumentMoniker": "webChat Application\\Views\\Home\\Counter.cshtml",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\webChat Application\\webChat Application\\Views\\Home\\Counter.cshtml",
+              "RelativeToolTip": "webChat Application\\Views\\Home\\Counter.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-15T13:01:43.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\webChat Application\\webChat Application\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "webChat Application\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\webChat Application\\webChat Application\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "webChat Application\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T13:00:33.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CounterHub.cs",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\webChat Application\\webChat Application\\CounterHub.cs",
+              "RelativeDocumentMoniker": "webChat Application\\CounterHub.cs",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\webChat Application\\webChat Application\\CounterHub.cs",
+              "RelativeToolTip": "webChat Application\\CounterHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T12:54:53.364Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

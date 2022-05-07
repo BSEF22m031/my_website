@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    
+</head>
+<body>
+
+    <div class="container">
+
+        <h1 class="text-center mt-4 mb-4">Reports & Feedback</h1>
+
+        <div class="card shadow-lg p-4 mb-4">
+            <h4 class="card-title">Question:</h4>
+            <p class="card-text">What is the status of the current project?</p>
+
+            <form action="/submit-report" method="POST">
+                <div class="mb-3">
+                    <label for="answer" class="form-label">Answer:</label>
+                    <textarea class="form-control" id="answer" name="answer" rows="6" placeholder="Enter your answer here..." required></textarea>
+                </div>
+
+                <div class="d-flex justify-content-between">
+                    <button type="submit" class="btn btn-primary w-48">Submit</button>
+                    <button type="button" class="btn btn-secondary w-48" onclick="skipQuestion()">Skip</button>
+                </div>
+            </form>
+        </div>
+
+    </div>
+</body>
+</html>

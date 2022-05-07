@@ -1,0 +1,498 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+}
+
+
+.navbar {
+    background-color: #002855;
+    width: 100%;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    color: #f5d547;
+}
+
+    .navbar-brand:hover {
+        color: #ffc107; 
+    }
+
+.nav-link {
+    color: #ffffff; 
+    font-weight: 500;
+}
+
+    .nav-link:hover {
+        color: #ffc107; 
+    }
+
+.btn-login {
+    background-color: #f5d547;
+    color: #002855;
+    font-weight: bold;
+    border: none;
+    transition: all 0.3s ease;
+}
+
+    .btn-login:hover {
+        background-color: #ffc107; 
+        color: #002855;
+    }
+
+.country-icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+
+.header-section {
+    position: relative;
+    background-image: url('/images/header image.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 60vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+}
+
+    .header-section::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.4); 
+        z-index: 1;
+    }
+
+.header-content {
+    position: relative;
+    z-index: 2; 
+}
+
+.header-section h1 {
+    font-size: 3.5rem; 
+    font-weight: bold;
+}
+
+.header-section .lead {
+    font-size: 1.25rem; 
+    margin-top: 1rem;
+}
+
+.header-section .btn {
+    margin-top: 2rem;
+    background-color: #f5d547; 
+    color: #002855; 
+    font-weight: bold;
+}
+
+    .header-section .btn:hover {
+        background-color: #ffc107; 
+    }
+/*this is for the learn more page section */
+    .section-title {
+            font-size: 2.5rem;
+            font-weight: bold;
+            margin-bottom: 1.5rem;
+            color: #002855; 
+        }
+
+        .section-content {
+            font-size: 1.1rem;
+            color: #333;
+        }
+
+        .section-bg {
+            background-color: #f5f5f5;
+            padding: 2rem;
+            border-radius: 8px;
+            margin-bottom: 2rem;
+        }
+
+        .learn-more-btn {
+            background-color: #f5d547;
+            color: #002855;
+            font-weight: bold;
+            text-decoration: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+        }
+
+            .learn-more-btn:hover {
+                background-color: #ffc107;
+            }
+
+
+           /*about us page*/
+.history-section {
+    background-color: #f4f8fb; 
+}
+
+    .history-section h2 {
+        color: #004080; 
+        margin-bottom: 20px;
+        font-size: 2rem;
+    }
+
+    .history-section p {
+        color: #333; 
+        font-size: 1.1rem;
+    }
+
+.members-section {
+    background-color: #ffffff;
+}
+
+    .members-section h2 {
+        color: #004080; 
+        margin-bottom: 40px;
+        font-size: 2rem;
+    }
+
+.member-card {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 15px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+}
+
+.member-img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%; 
+    object-fit: cover;
+}
+
+.member-info {
+    flex-grow: 1;
+}
+
+    .member-info h5 {
+        font-size: 1.25rem;
+        color: #007bff;
+        margin-bottom: 5px;
+    }
+
+    .member-info p {
+        font-size: 1rem;
+        color: #666;
+    }
+
+.arrow-icon {
+    font-size: 1.5rem;
+    color: #007bff;
+    margin-left: 20px;
+}
+
+@media (max-width: 768px) {
+    .member-card {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .arrow-icon {
+        display: none; 
+    }
+
+    .member-info {
+        margin-top: 10px;
+    }
+}
+
+
+/* General Styles for the CAndidate Page */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+.intro-section {
+    background-color: #e0f7fa;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+    .intro-section h2 {
+        font-size: 2.5rem;
+        color: #004080;
+    }
+
+    .intro-section p {
+        font-size: 16px;
+        color: #333;
+    }
+
+.province-section {
+    margin-top: 30px;
+    padding: 20px;
+    background-color: #cce7ff;
+    border-radius: 10px;
+}
+
+.province-links a {
+    font-size: 18px;
+    color: #004080;
+    font-weight: bold;
+    text-decoration: none;
+    margin: 0 15px;
+    padding: 10px 20px;
+    border: 2px solid #004080;
+    border-radius: 5px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+    .province-links a:hover {
+        background-color: #004080;
+        color: #fff;
+    }
+
+.stats-table {
+    margin-top: 30px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+table {
+    width: 100%;
+    text-align: center;
+    font-size: 16px;
+}
+
+th, td {
+    padding: 15px;
+    border: 1px solid #ddd;
+}
+
+th {
+    background-color: #004080;
+    color: white;
+}
+
+td {
+    background-color: #f9f9f9;
+}
+
+table tbody tr:nth-child(even) {
+    background-color: #f1f1f1;
+}
+
+table tbody tr:hover {
+    background-color: #d7e7ff;
+}
+
+
+/* General Styles  for punjab Candidate page*/
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+.intro-section {
+    background-color: #e0f7fa;
+    padding: 30px;
+    
+}
+
+/*result page*/
+.process-box {
+    border: 2px solid #004080;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 10px 0;
+}
+
+.process-arrow {
+    font-size: 2rem;
+    color: #004080;
+}
+
+.result-box {
+    border: 2px solid #004080;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.result-title {
+    font-weight: bold;
+    color: #004080;
+}
+
+h6 {
+    font-weight: bold;
+    color: #0066cc;
+}
+
+/*login*/
+/* Styling for Login Page */
+#login {
+    background-color: #f8f9fa;
+    padding: 40px 0;
+}
+
+.card {
+    border-radius: 10px;
+    border: 1px solid #004080;
+}
+
+h2 {
+    font-size: 2.5rem;
+    color: #004080;
+    font-weight: bold;
+}
+
+button {
+    background-color: #004080;
+    border: none;
+}
+
+    button:hover {
+        background-color: #0066cc;
+    }
+
+footer {
+    background-color: #004080;
+    color: #fff;
+}
+
+    footer p {
+        margin-bottom: 0;
+    }
+
+a {
+    color: #004080;
+}
+
+    a:hover {
+        color: #0066cc;
+        text-decoration: underline;
+    }
+
+    /*sign up*/
+
+/* Styling for Sign Up Page */
+#signup {
+    background-color: #f8f9fa;
+    padding: 40px 0;
+}
+
+.card {
+    border-radius: 10px;
+    border: 1px solid #004080;
+}
+
+h2 {
+    font-size: 2.5rem;
+    color: #004080;
+    font-weight: bold;
+}
+
+button {
+    background-color: #004080;
+    border: none;
+}
+
+    button:hover {
+        background-color: #0066cc;
+    }
+
+footer {
+    background-color: #004080;
+    color: #fff;
+}
+
+    footer p {
+        margin-bottom: 0;
+    }
+
+a {
+    color: #004080;
+}
+
+    a:hover {
+        color: #0066cc;
+        text-decoration: underline;
+    }
+
+
+/* Contact Us Page Styling */
+/*.contact-us-section {
+    background-color: #f8f9fa;
+    padding: 60px 0;
+}
+
+.card {
+    border: 1px solid #004080;
+    border-radius: 10px;
+}
+
+h1, h3 {
+    color: #004080;
+    font-weight: bold;
+}
+
+button {
+    background-color: #004080;
+    border: none;
+}
+
+    button:hover {
+        background-color: #0066cc;
+    }
+
+.accordion-button {
+    color: #004080;
+    font-weight: bold;
+}
+
+    .accordion-button:not(.collapsed) {
+        background-color: #004080;
+        color: #fff;
+    }
+*/
+
+/* Make dropdown visible on hover */
+.nav-item.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0; 
+}
+
+.dropdown-menu {
+    transition: all 0.3s ease-in-out;
+}
+/*punjab images*/
+.candidate-img {
+    width: 9.375rem;
+    height: 9.375rem;
+}

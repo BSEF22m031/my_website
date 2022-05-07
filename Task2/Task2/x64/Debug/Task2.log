@@ -1,0 +1,6 @@
+﻿  MyString.cpp
+  Task2.cpp
+  Generating Code...
+Task2.obj : error LNK2019: unresolved external symbol "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl operator<<(class std::basic_ostream<char,struct std::char_traits<char> > &,class MyString const &)" (??6@YAAEAV?$basic_ostream@DU?$char_traits@D@std@@@std@@AEAV01@AEBVMyString@@@Z) referenced in function main
+Task2.obj : error LNK2019: unresolved external symbol "class std::basic_istream<char,struct std::char_traits<char> > & __cdecl operator>>(class std::basic_istream<char,struct std::char_traits<char> > &,class MyString &)" (??5@YAAEAV?$basic_istream@DU?$char_traits@D@std@@@std@@AEAV01@AEAVMyString@@@Z) referenced in function main
+C:\Users\raomu_pttvukn\source\repos\Task2\x64\Debug\Task2.exe : fatal error LNK1120: 2 unresolved externals

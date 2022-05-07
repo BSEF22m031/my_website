@@ -1,0 +1,610 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B84C0C7-DAA7-4BBB-9F2A-8CA904F1D024}|semester project 2\\semester project 2.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\controllers\\voterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B84C0C7-DAA7-4BBB-9F2A-8CA904F1D024}|semester project 2\\semester project 2.csproj|solutionrelative:semester project 2\\controllers\\voterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B84C0C7-DAA7-4BBB-9F2A-8CA904F1D024}|semester project 2\\semester project 2.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\controllers\\votecastingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B84C0C7-DAA7-4BBB-9F2A-8CA904F1D024}|semester project 2\\semester project 2.csproj|solutionrelative:semester project 2\\controllers\\votecastingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B84C0C7-DAA7-4BBB-9F2A-8CA904F1D024}|semester project 2\\semester project 2.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\controllers\\vote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B84C0C7-DAA7-4BBB-9F2A-8CA904F1D024}|semester project 2\\semester project 2.csproj|solutionrelative:semester project 2\\controllers\\vote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B84C0C7-DAA7-4BBB-9F2A-8CA904F1D024}|semester project 2\\semester project 2.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\controllers\\usermanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B84C0C7-DAA7-4BBB-9F2A-8CA904F1D024}|semester project 2\\semester project 2.csproj|solutionrelative:semester project 2\\controllers\\usermanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B84C0C7-DAA7-4BBB-9F2A-8CA904F1D024}|semester project 2\\semester project 2.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\controllers\\userdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B84C0C7-DAA7-4BBB-9F2A-8CA904F1D024}|semester project 2\\semester project 2.csproj|solutionrelative:semester project 2\\controllers\\userdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B84C0C7-DAA7-4BBB-9F2A-8CA904F1D024}|semester project 2\\semester project 2.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\controllers\\upcomingregistercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B84C0C7-DAA7-4BBB-9F2A-8CA904F1D024}|semester project 2\\semester project 2.csproj|solutionrelative:semester project 2\\controllers\\upcomingregistercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B84C0C7-DAA7-4BBB-9F2A-8CA904F1D024}|semester project 2\\semester project 2.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\controllers\\upcomingelectionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B84C0C7-DAA7-4BBB-9F2A-8CA904F1D024}|semester project 2\\semester project 2.csproj|solutionrelative:semester project 2\\controllers\\upcomingelectionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B84C0C7-DAA7-4BBB-9F2A-8CA904F1D024}|semester project 2\\semester project 2.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\controllers\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B84C0C7-DAA7-4BBB-9F2A-8CA904F1D024}|semester project 2\\semester project 2.csproj|solutionrelative:semester project 2\\controllers\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B84C0C7-DAA7-4BBB-9F2A-8CA904F1D024}|semester project 2\\semester project 2.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\controllers\\loginpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B84C0C7-DAA7-4BBB-9F2A-8CA904F1D024}|semester project 2\\semester project 2.csproj|solutionrelative:semester project 2\\controllers\\loginpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B84C0C7-DAA7-4BBB-9F2A-8CA904F1D024}|semester project 2\\semester project 2.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B84C0C7-DAA7-4BBB-9F2A-8CA904F1D024}|semester project 2\\semester project 2.csproj|solutionrelative:semester project 2\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B84C0C7-DAA7-4BBB-9F2A-8CA904F1D024}|semester project 2\\semester project 2.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\controllers\\castvotecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B84C0C7-DAA7-4BBB-9F2A-8CA904F1D024}|semester project 2\\semester project 2.csproj|solutionrelative:semester project 2\\controllers\\castvotecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B84C0C7-DAA7-4BBB-9F2A-8CA904F1D024}|semester project 2\\semester project 2.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\controllers\\addelectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B84C0C7-DAA7-4BBB-9F2A-8CA904F1D024}|semester project 2\\semester project 2.csproj|solutionrelative:semester project 2\\controllers\\addelectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B84C0C7-DAA7-4BBB-9F2A-8CA904F1D024}|semester project 2\\semester project 2.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\controllers\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B84C0C7-DAA7-4BBB-9F2A-8CA904F1D024}|semester project 2\\semester project 2.csproj|solutionrelative:semester project 2\\controllers\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B84C0C7-DAA7-4BBB-9F2A-8CA904F1D024}|semester project 2\\semester project 2.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\hubs\\votehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B84C0C7-DAA7-4BBB-9F2A-8CA904F1D024}|semester project 2\\semester project 2.csproj|solutionrelative:semester project 2\\hubs\\votehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B84C0C7-DAA7-4BBB-9F2A-8CA904F1D024}|semester project 2\\semester project 2.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\controllers\\sindhcandidates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B84C0C7-DAA7-4BBB-9F2A-8CA904F1D024}|semester project 2\\semester project 2.csproj|solutionrelative:semester project 2\\controllers\\sindhcandidates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B84C0C7-DAA7-4BBB-9F2A-8CA904F1D024}|semester project 2\\semester project 2.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\controllers\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B84C0C7-DAA7-4BBB-9F2A-8CA904F1D024}|semester project 2\\semester project 2.csproj|solutionrelative:semester project 2\\controllers\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B84C0C7-DAA7-4BBB-9F2A-8CA904F1D024}|semester project 2\\semester project 2.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B84C0C7-DAA7-4BBB-9F2A-8CA904F1D024}|semester project 2\\semester project 2.csproj|solutionrelative:semester project 2\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B84C0C7-DAA7-4BBB-9F2A-8CA904F1D024}|semester project 2\\semester project 2.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\controllers\\punjabcandidates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B84C0C7-DAA7-4BBB-9F2A-8CA904F1D024}|semester project 2\\semester project 2.csproj|solutionrelative:semester project 2\\controllers\\punjabcandidates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B84C0C7-DAA7-4BBB-9F2A-8CA904F1D024}|semester project 2\\semester project 2.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\controllers\\manageelectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B84C0C7-DAA7-4BBB-9F2A-8CA904F1D024}|semester project 2\\semester project 2.csproj|solutionrelative:semester project 2\\controllers\\manageelectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B84C0C7-DAA7-4BBB-9F2A-8CA904F1D024}|semester project 2\\semester project 2.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\controllers\\kpkcandidates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B84C0C7-DAA7-4BBB-9F2A-8CA904F1D024}|semester project 2\\semester project 2.csproj|solutionrelative:semester project 2\\controllers\\kpkcandidates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B84C0C7-DAA7-4BBB-9F2A-8CA904F1D024}|semester project 2\\semester project 2.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\controllers\\islamabadcandidates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B84C0C7-DAA7-4BBB-9F2A-8CA904F1D024}|semester project 2\\semester project 2.csproj|solutionrelative:semester project 2\\controllers\\islamabadcandidates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B84C0C7-DAA7-4BBB-9F2A-8CA904F1D024}|semester project 2\\semester project 2.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B84C0C7-DAA7-4BBB-9F2A-8CA904F1D024}|semester project 2\\semester project 2.csproj|solutionrelative:semester project 2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B84C0C7-DAA7-4BBB-9F2A-8CA904F1D024}|semester project 2\\semester project 2.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\controllers\\general.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B84C0C7-DAA7-4BBB-9F2A-8CA904F1D024}|semester project 2\\semester project 2.csproj|solutionrelative:semester project 2\\controllers\\general.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B84C0C7-DAA7-4BBB-9F2A-8CA904F1D024}|semester project 2\\semester project 2.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\controllers\\electionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B84C0C7-DAA7-4BBB-9F2A-8CA904F1D024}|semester project 2\\semester project 2.csproj|solutionrelative:semester project 2\\controllers\\electionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B84C0C7-DAA7-4BBB-9F2A-8CA904F1D024}|semester project 2\\semester project 2.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B84C0C7-DAA7-4BBB-9F2A-8CA904F1D024}|semester project 2\\semester project 2.csproj|solutionrelative:semester project 2\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B84C0C7-DAA7-4BBB-9F2A-8CA904F1D024}|semester project 2\\semester project 2.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\controllers\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B84C0C7-DAA7-4BBB-9F2A-8CA904F1D024}|semester project 2\\semester project 2.csproj|solutionrelative:semester project 2\\controllers\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B84C0C7-DAA7-4BBB-9F2A-8CA904F1D024}|semester project 2\\semester project 2.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\views\\vote\\vote.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B84C0C7-DAA7-4BBB-9F2A-8CA904F1D024}|semester project 2\\semester project 2.csproj|solutionrelative:semester project 2\\views\\vote\\vote.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B84C0C7-DAA7-4BBB-9F2A-8CA904F1D024}|semester project 2\\semester project 2.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\semester project 2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4B84C0C7-DAA7-4BBB-9F2A-8CA904F1D024}|semester project 2\\semester project 2.csproj|solutionrelative:semester project 2\\semester project 2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B84C0C7-DAA7-4BBB-9F2A-8CA904F1D024}|semester project 2\\semester project 2.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\views\\upcomingelections\\upcomingelection.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B84C0C7-DAA7-4BBB-9F2A-8CA904F1D024}|semester project 2\\semester project 2.csproj|solutionrelative:semester project 2\\views\\upcomingelections\\upcomingelection.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B84C0C7-DAA7-4BBB-9F2A-8CA904F1D024}|semester project 2\\semester project 2.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\views\\upcomingregister\\upcomingregister.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B84C0C7-DAA7-4BBB-9F2A-8CA904F1D024}|semester project 2\\semester project 2.csproj|solutionrelative:semester project 2\\views\\upcomingregister\\upcomingregister.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B84C0C7-DAA7-4BBB-9F2A-8CA904F1D024}|semester project 2\\semester project 2.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B84C0C7-DAA7-4BBB-9F2A-8CA904F1D024}|semester project 2\\semester project 2.csproj|solutionrelative:semester project 2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B84C0C7-DAA7-4BBB-9F2A-8CA904F1D024}|semester project 2\\semester project 2.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B84C0C7-DAA7-4BBB-9F2A-8CA904F1D024}|semester project 2\\semester project 2.csproj|solutionrelative:semester project 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B84C0C7-DAA7-4BBB-9F2A-8CA904F1D024}|semester project 2\\semester project 2.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\views\\loginpage\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B84C0C7-DAA7-4BBB-9F2A-8CA904F1D024}|semester project 2\\semester project 2.csproj|solutionrelative:semester project 2\\views\\loginpage\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B84C0C7-DAA7-4BBB-9F2A-8CA904F1D024}|semester project 2\\semester project 2.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\views\\signup\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B84C0C7-DAA7-4BBB-9F2A-8CA904F1D024}|semester project 2\\semester project 2.csproj|solutionrelative:semester project 2\\views\\signup\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "About.cs",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\Controllers\\About.cs",
+              "RelativeDocumentMoniker": "semester project 2\\Controllers\\About.cs",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\Controllers\\About.cs",
+              "RelativeToolTip": "semester project 2\\Controllers\\About.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T15:07:15.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VotersController.cs",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\Controllers\\VotersController.cs",
+              "RelativeDocumentMoniker": "semester project 2\\Controllers\\VotersController.cs",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\Controllers\\VotersController.cs",
+              "RelativeToolTip": "semester project 2\\Controllers\\VotersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T15:09:44.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VoteCastingController.cs",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\Controllers\\VoteCastingController.cs",
+              "RelativeDocumentMoniker": "semester project 2\\Controllers\\VoteCastingController.cs",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\Controllers\\VoteCastingController.cs",
+              "RelativeToolTip": "semester project 2\\Controllers\\VoteCastingController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T15:09:42.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserManagementController.cs",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\Controllers\\UserManagementController.cs",
+              "RelativeDocumentMoniker": "semester project 2\\Controllers\\UserManagementController.cs",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\Controllers\\UserManagementController.cs",
+              "RelativeToolTip": "semester project 2\\Controllers\\UserManagementController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T15:09:27.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserDetailController.cs",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\Controllers\\UserDetailController.cs",
+              "RelativeDocumentMoniker": "semester project 2\\Controllers\\UserDetailController.cs",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\Controllers\\UserDetailController.cs",
+              "RelativeToolTip": "semester project 2\\Controllers\\UserDetailController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T15:09:23.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SindhCandidates.cs",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\Controllers\\SindhCandidates.cs",
+              "RelativeDocumentMoniker": "semester project 2\\Controllers\\SindhCandidates.cs",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\Controllers\\SindhCandidates.cs",
+              "RelativeToolTip": "semester project 2\\Controllers\\SindhCandidates.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T15:08:59.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\Controllers\\Result.cs",
+              "RelativeDocumentMoniker": "semester project 2\\Controllers\\Result.cs",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\Controllers\\Result.cs",
+              "RelativeToolTip": "semester project 2\\Controllers\\Result.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T15:08:47.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ReportController.cs",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\Controllers\\ReportController.cs",
+              "RelativeDocumentMoniker": "semester project 2\\Controllers\\ReportController.cs",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\Controllers\\ReportController.cs",
+              "RelativeToolTip": "semester project 2\\Controllers\\ReportController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T15:08:45.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PunjabCandidates.cs",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\Controllers\\PunjabCandidates.cs",
+              "RelativeDocumentMoniker": "semester project 2\\Controllers\\PunjabCandidates.cs",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\Controllers\\PunjabCandidates.cs",
+              "RelativeToolTip": "semester project 2\\Controllers\\PunjabCandidates.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T15:08:43.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ManageElectionController.cs",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\Controllers\\ManageElectionController.cs",
+              "RelativeDocumentMoniker": "semester project 2\\Controllers\\ManageElectionController.cs",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\Controllers\\ManageElectionController.cs",
+              "RelativeToolTip": "semester project 2\\Controllers\\ManageElectionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T15:08:41.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "KPKCandidates.cs",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\Controllers\\KPKCandidates.cs",
+              "RelativeDocumentMoniker": "semester project 2\\Controllers\\KPKCandidates.cs",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\Controllers\\KPKCandidates.cs",
+              "RelativeToolTip": "semester project 2\\Controllers\\KPKCandidates.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T15:08:27.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IslamabadCandidates.cs",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\Controllers\\IslamabadCandidates.cs",
+              "RelativeDocumentMoniker": "semester project 2\\Controllers\\IslamabadCandidates.cs",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\Controllers\\IslamabadCandidates.cs",
+              "RelativeToolTip": "semester project 2\\Controllers\\IslamabadCandidates.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T15:08:26.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "semester project 2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "semester project 2\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T15:08:20.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "General.cs",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\Controllers\\General.cs",
+              "RelativeDocumentMoniker": "semester project 2\\Controllers\\General.cs",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\Controllers\\General.cs",
+              "RelativeToolTip": "semester project 2\\Controllers\\General.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T15:08:18.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ElectionsController.cs",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\Controllers\\ElectionsController.cs",
+              "RelativeDocumentMoniker": "semester project 2\\Controllers\\ElectionsController.cs",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\Controllers\\ElectionsController.cs",
+              "RelativeToolTip": "semester project 2\\Controllers\\ElectionsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T15:08:16.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "semester project 2\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "semester project 2\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T15:08:13.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "semester project 2\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "semester project 2\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T15:08:01.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Candidate.cs",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\Controllers\\Candidate.cs",
+              "RelativeDocumentMoniker": "semester project 2\\Controllers\\Candidate.cs",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\Controllers\\Candidate.cs",
+              "RelativeToolTip": "semester project 2\\Controllers\\Candidate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T15:07:44.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "VoteHub.cs",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\Hubs\\VoteHub.cs",
+              "RelativeDocumentMoniker": "semester project 2\\Hubs\\VoteHub.cs",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\Hubs\\VoteHub.cs",
+              "RelativeToolTip": "semester project 2\\Hubs\\VoteHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T13:17:55.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "semester project 2.csproj",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\semester project 2.csproj",
+              "RelativeDocumentMoniker": "semester project 2\\semester project 2.csproj",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\semester project 2.csproj",
+              "RelativeToolTip": "semester project 2\\semester project 2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-23T13:17:33.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "vote.cshtml",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\Views\\Vote\\vote.cshtml",
+              "RelativeDocumentMoniker": "semester project 2\\Views\\Vote\\vote.cshtml",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\Views\\Vote\\vote.cshtml",
+              "RelativeToolTip": "semester project 2\\Views\\Vote\\vote.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T13:12:09.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vote.cs",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\Controllers\\Vote.cs",
+              "RelativeDocumentMoniker": "semester project 2\\Controllers\\Vote.cs",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\Controllers\\Vote.cs",
+              "RelativeToolTip": "semester project 2\\Controllers\\Vote.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAIwD0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T13:12:00.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpcomingRegisterController.cs",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\Controllers\\UpcomingRegisterController.cs",
+              "RelativeDocumentMoniker": "semester project 2\\Controllers\\UpcomingRegisterController.cs",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\Controllers\\UpcomingRegisterController.cs",
+              "RelativeToolTip": "semester project 2\\Controllers\\UpcomingRegisterController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAYwA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T17:45:18.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "upcomingRegister.cshtml",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\Views\\UpcomingRegister\\upcomingRegister.cshtml",
+              "RelativeDocumentMoniker": "semester project 2\\Views\\UpcomingRegister\\upcomingRegister.cshtml",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\Views\\UpcomingRegister\\upcomingRegister.cshtml",
+              "RelativeToolTip": "semester project 2\\Views\\UpcomingRegister\\upcomingRegister.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T17:45:18.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\Views\\LoginPage\\Login.cshtml",
+              "RelativeDocumentMoniker": "semester project 2\\Views\\LoginPage\\Login.cshtml",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\Views\\LoginPage\\Login.cshtml",
+              "RelativeToolTip": "semester project 2\\Views\\LoginPage\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T17:45:18.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginPageController.cs",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\Controllers\\LoginPageController.cs",
+              "RelativeDocumentMoniker": "semester project 2\\Controllers\\LoginPageController.cs",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\Controllers\\LoginPageController.cs",
+              "RelativeToolTip": "semester project 2\\Controllers\\LoginPageController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T17:45:18.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "upcomingElection.cshtml",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\Views\\UpcomingElections\\upcomingElection.cshtml",
+              "RelativeDocumentMoniker": "semester project 2\\Views\\UpcomingElections\\upcomingElection.cshtml",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\Views\\UpcomingElections\\upcomingElection.cshtml",
+              "RelativeToolTip": "semester project 2\\Views\\UpcomingElections\\upcomingElection.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T17:45:17.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpcomingElectionsController.cs",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\Controllers\\UpcomingElectionsController.cs",
+              "RelativeDocumentMoniker": "semester project 2\\Controllers\\UpcomingElectionsController.cs",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\Controllers\\UpcomingElectionsController.cs",
+              "RelativeToolTip": "semester project 2\\Controllers\\UpcomingElectionsController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T17:45:14.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CastVoteController.cs",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\Controllers\\CastVoteController.cs",
+              "RelativeDocumentMoniker": "semester project 2\\Controllers\\CastVoteController.cs",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\Controllers\\CastVoteController.cs",
+              "RelativeToolTip": "semester project 2\\Controllers\\CastVoteController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T13:37:56.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddElectionController.cs",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\Controllers\\AddElectionController.cs",
+              "RelativeDocumentMoniker": "semester project 2\\Controllers\\AddElectionController.cs",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\Controllers\\AddElectionController.cs",
+              "RelativeToolTip": "semester project 2\\Controllers\\AddElectionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T13:35:17.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "signup.cshtml",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\Views\\SignUp\\signup.cshtml",
+              "RelativeDocumentMoniker": "semester project 2\\Views\\SignUp\\signup.cshtml",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\Views\\SignUp\\signup.cshtml",
+              "RelativeToolTip": "semester project 2\\Views\\SignUp\\signup.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-04T15:00:00.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SignUp.cs",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\Controllers\\SignUp.cs",
+              "RelativeDocumentMoniker": "semester project 2\\Controllers\\SignUp.cs",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\Controllers\\SignUp.cs",
+              "RelativeToolTip": "semester project 2\\Controllers\\SignUp.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAQwEQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T14:59:48.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "semester project 2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "semester project 2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-04T14:55:50.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\Program.cs",
+              "RelativeDocumentMoniker": "semester project 2\\Program.cs",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\semester project 2\\semester project 2\\Program.cs",
+              "RelativeToolTip": "semester project 2\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T09:03:48.045Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

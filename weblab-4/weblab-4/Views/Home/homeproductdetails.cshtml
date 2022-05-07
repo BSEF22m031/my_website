@@ -1,0 +1,22 @@
+﻿@* @model weblab_4.Models.HomeViewModel
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@Model.Title</title> 
+</head>
+<body>
+    <h1>@Model.Title</h1> 
+
+    <h2>Items:</h2>
+    <ul>
+        @foreach (var item in Model.Items)
+        {
+            <li>@item</li>
+        }
+    </ul>
+</body>
+</html>
+ *@

@@ -1,0 +1,50 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    @{
+        var successMessage = TempData["SignupSuccessMessage"] as string;
+
+    }
+
+    @if (!string.IsNullOrEmpty(successMessage))
+    {
+        <div class="alert alert-success">
+            @successMessage
+        </div>
+    }
+
+    
+</head>
+
+<body>
+
+    
+    <section id="login" class="container my-5">
+        <div class="row justify-content-center">
+            <div class="col-md-6">
+                <div class="card shadow p-4">
+                    <h2 class="text-center mb-4" style="color: #004080;">Login</h2>
+                    <form action="/LoginPage/Login" method="POST">
+                        <div class="mb-3">
+                            <label for="username" class="form-label">Username</label>
+                            <input type="text" class="form-control" id="username" name="username" required>
+                        </div>
+                        <div class="mb-3">
+                            <label for="password" class="form-label">Password</label>
+                            <input type="password" class="form-control" id="password" name="password" required>
+                        </div>
+                        <button type="submit" class="btn btn-primary w-100">Login</button>
+                    </form>
+                    <div class="text-center mt-3">
+                        <p>Don't have an account? <a href="https://localhost:7267/SignUp/signup" style="color: #004080;">Sign Up</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+   
+</body>
+
+</html>

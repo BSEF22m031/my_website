@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/web_lab_06.styles.css" asp-append-version="true" />
+    <div class="outer-box-front-page">
+        Wellcome to Flavor Haven
+        
+    </div>
+</head>
+<body>
+    <div>
+        @RenderBody()
+    </div>
+</body>
+<footer>
+    <div class="footer-box">
+        <h3>Restaurant Details</h3>
+        <p><strong>Owner:</strong> Muhammad Mubashir</p>
+        <p><strong>Address:</strong> 123 Flavor Street, Food City</p>
+        <p><strong>Phone:</strong> +123 456 7890</p>
+        <p><strong>Email:</strong> contact@flavorhaven.com</p>
+    </div>
+</footer>
+
+</html>

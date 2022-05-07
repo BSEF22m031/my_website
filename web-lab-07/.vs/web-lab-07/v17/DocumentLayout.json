@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\raomu_pttvukn\\source\\repos\\web-lab-07\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3DC5314-7865-4C94-9FA1-C70DB90F10D6}|web-lab-07\\web-lab-07.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\web-lab-07\\web-lab-07\\views\\pricing\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3DC5314-7865-4C94-9FA1-C70DB90F10D6}|web-lab-07\\web-lab-07.csproj|solutionrelative:web-lab-07\\views\\pricing\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3DC5314-7865-4C94-9FA1-C70DB90F10D6}|web-lab-07\\web-lab-07.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\web-lab-07\\web-lab-07\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3DC5314-7865-4C94-9FA1-C70DB90F10D6}|web-lab-07\\web-lab-07.csproj|solutionrelative:web-lab-07\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3DC5314-7865-4C94-9FA1-C70DB90F10D6}|web-lab-07\\web-lab-07.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\web-lab-07\\web-lab-07\\views\\shared\\_layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3DC5314-7865-4C94-9FA1-C70DB90F10D6}|web-lab-07\\web-lab-07.csproj|solutionrelative:web-lab-07\\views\\shared\\_layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3DC5314-7865-4C94-9FA1-C70DB90F10D6}|web-lab-07\\web-lab-07.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\web-lab-07\\web-lab-07\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3DC5314-7865-4C94-9FA1-C70DB90F10D6}|web-lab-07\\web-lab-07.csproj|solutionrelative:web-lab-07\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3DC5314-7865-4C94-9FA1-C70DB90F10D6}|web-lab-07\\web-lab-07.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\web-lab-07\\web-lab-07\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3DC5314-7865-4C94-9FA1-C70DB90F10D6}|web-lab-07\\web-lab-07.csproj|solutionrelative:web-lab-07\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3DC5314-7865-4C94-9FA1-C70DB90F10D6}|web-lab-07\\web-lab-07.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\web-lab-07\\web-lab-07\\views\\home\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3DC5314-7865-4C94-9FA1-C70DB90F10D6}|web-lab-07\\web-lab-07.csproj|solutionrelative:web-lab-07\\views\\home\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3DC5314-7865-4C94-9FA1-C70DB90F10D6}|web-lab-07\\web-lab-07.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\web-lab-07\\web-lab-07\\models\\pricingplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3DC5314-7865-4C94-9FA1-C70DB90F10D6}|web-lab-07\\web-lab-07.csproj|solutionrelative:web-lab-07\\models\\pricingplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3DC5314-7865-4C94-9FA1-C70DB90F10D6}|web-lab-07\\web-lab-07.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\web-lab-07\\web-lab-07\\controllers\\pricingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3DC5314-7865-4C94-9FA1-C70DB90F10D6}|web-lab-07\\web-lab-07.csproj|solutionrelative:web-lab-07\\controllers\\pricingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\web-lab-07\\web-lab-07\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "web-lab-07\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\web-lab-07\\web-lab-07\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "web-lab-07\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T14:56:52.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\web-lab-07\\web-lab-07\\Views\\Home\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "web-lab-07\\Views\\Home\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\web-lab-07\\web-lab-07\\Views\\Home\\_ViewStart.cshtml",
+              "RelativeToolTip": "web-lab-07\\Views\\Home\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T14:54:13.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\web-lab-07\\web-lab-07\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "web-lab-07\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\web-lab-07\\web-lab-07\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "web-lab-07\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T14:51:54.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout1.cshtml",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\web-lab-07\\web-lab-07\\Views\\Shared\\_Layout1.cshtml",
+              "RelativeDocumentMoniker": "web-lab-07\\Views\\Shared\\_Layout1.cshtml",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\web-lab-07\\web-lab-07\\Views\\Shared\\_Layout1.cshtml",
+              "RelativeToolTip": "web-lab-07\\Views\\Shared\\_Layout1.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T14:51:50.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\web-lab-07\\web-lab-07\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "web-lab-07\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\web-lab-07\\web-lab-07\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "web-lab-07\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T14:50:57.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\web-lab-07\\web-lab-07\\Views\\Pricing\\Index.cshtml",
+              "RelativeDocumentMoniker": "web-lab-07\\Views\\Pricing\\Index.cshtml",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\web-lab-07\\web-lab-07\\Views\\Pricing\\Index.cshtml",
+              "RelativeToolTip": "web-lab-07\\Views\\Pricing\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T14:41:56.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PricingPlan.cs",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\web-lab-07\\web-lab-07\\Models\\PricingPlan.cs",
+              "RelativeDocumentMoniker": "web-lab-07\\Models\\PricingPlan.cs",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\web-lab-07\\web-lab-07\\Models\\PricingPlan.cs",
+              "RelativeToolTip": "web-lab-07\\Models\\PricingPlan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T14:40:08.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PricingController.cs",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\web-lab-07\\web-lab-07\\Controllers\\PricingController.cs",
+              "RelativeDocumentMoniker": "web-lab-07\\Controllers\\PricingController.cs",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\web-lab-07\\web-lab-07\\Controllers\\PricingController.cs",
+              "RelativeToolTip": "web-lab-07\\Controllers\\PricingController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T14:38:31.588Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

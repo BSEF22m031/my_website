@@ -1,0 +1,120 @@
+wwwroot\css\site.css
+wwwroot\favicon.ico
+wwwroot\images\abdul qudos-bl.jpg
+wwwroot\images\abdul wali kakar-bl.jpg
+wwwroot\images\ahsan iqbal.png
+wwwroot\images\akram durani.jpg
+wwwroot\images\ali amin-w.png
+wwwroot\images\Aliya Hamza-w.jpg
+wwwroot\images\ameer  Ali shah.jpg
+wwwroot\images\asad umer-w.jpg
+wwwroot\images\asif li zardari.jpg
+wwwroot\images\asma-jahangir.jpg
+wwwroot\images\babar hassan.png
+wwwroot\images\bilawal.jpg
+wwwroot\images\bushra gohar.jpg
+wwwroot\images\Chaudhary_Parvez_Elahi.jpg
+wwwroot\images\Election-Process-Flow-Chart-Template-edit-online.png
+wwwroot\images\Emblem_of_the_Election_Commission_of_Pakistan.svg
+wwwroot\images\faisal javed -w.jpg
+wwwroot\images\faryal-talpur.jpeg
+wwwroot\images\fozia sardar.jpg
+wwwroot\images\hasil-bl.jpg
+wwwroot\images\header image.jpg
+wwwroot\images\Hina Rabbani Khar.jpg
+wwwroot\images\imran khan.jpg
+wwwroot\images\jam kamal khan-bl.jpg
+wwwroot\images\javed-w.jpeg
+wwwroot\images\justice ikram.png
+wwwroot\images\khurshid shah.jpg
+wwwroot\images\layout header screenshot.PNG
+wwwroot\images\layout header.PNG
+wwwroot\images\login screen shot.PNG
+wwwroot\images\maiza hameed-w.jpg
+wwwroot\images\maryam nawaz.jpg
+wwwroot\images\Maulana_Fazal-ur-Rehman.png
+wwwroot\images\mehmood.jpeg
+wwwroot\images\mle-female-count-province-wise.jpg
+wwwroot\images\mna candidate-w.jpg
+wwwroot\images\Mr Asad Qaiser Final photo.jpg
+wwwroot\images\Muhammad Ali khan.jpg
+wwwroot\images\Muhammad Aslam batooni-bl.jpg
+wwwroot\images\murad ali shah.jpg
+wwwroot\images\naheed akhtar-bl.jpg
+wwwroot\images\nisar ahmad durani.png
+wwwroot\images\pervaiz khatak.jpg
+wwwroot\images\President_of_Pakistan_Dr_Arif_Alvi-w.jpg
+wwwroot\images\rauf mengal-bl.webp
+wwwroot\images\saad rizvi.jpg
+wwwroot\images\sanaullah.jpg
+wwwroot\images\Sardar_Akhtar_Mengal_(cropped)-bl.jpg
+wwwroot\images\sarfraz baghti-bl.jpg
+wwwroot\images\screenshot 4.PNG
+wwwroot\images\Senator_Shibli_Faraz-w.jpg
+wwwroot\images\shah Muhammad jatoi.png
+wwwroot\images\shah-mahmod-qi=ureshi.jpg
+wwwroot\images\Shehbaz_Sharif_meets_Putin_(2024-07-03)_(2)_(cropped).jpg
+wwwroot\images\sherry rehman.jpg
+wwwroot\images\shirin mirzai.jpg
+wwwroot\images\shukat usefzai.jpg
+wwwroot\images\shukat.jpg
+wwwroot\images\voters-count.jpg
+wwwroot\images\zubaida jlal-bl.jpg
+wwwroot\js\site.js
+wwwroot\lib\bootstrap\dist\css\bootstrap.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+wwwroot\lib\bootstrap\LICENSE
+wwwroot\lib\jquery\dist\jquery.js
+wwwroot\lib\jquery\dist\jquery.min.js
+wwwroot\lib\jquery\dist\jquery.min.map
+wwwroot\lib\jquery\LICENSE.txt
+wwwroot\lib\jquery-validation\dist\additional-methods.js
+wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+wwwroot\lib\jquery-validation\LICENSE.md
+wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
