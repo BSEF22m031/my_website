@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\raomu_pttvukn\\source\\repos\\my-portfolio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60186D59-B573-4958-81A0-0A8DD7A336C7}|my-portfolio\\my-portfolio.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\my-portfolio\\my-portfolio\\wwwroot\\css\\my_portfolio.styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{60186D59-B573-4958-81A0-0A8DD7A336C7}|my-portfolio\\my-portfolio.csproj|solutionrelative:my-portfolio\\wwwroot\\css\\my_portfolio.styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60186D59-B573-4958-81A0-0A8DD7A336C7}|my-portfolio\\my-portfolio.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\my-portfolio\\my-portfolio\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{60186D59-B573-4958-81A0-0A8DD7A336C7}|my-portfolio\\my-portfolio.csproj|solutionrelative:my-portfolio\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60186D59-B573-4958-81A0-0A8DD7A336C7}|my-portfolio\\my-portfolio.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\my-portfolio\\my-portfolio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60186D59-B573-4958-81A0-0A8DD7A336C7}|my-portfolio\\my-portfolio.csproj|solutionrelative:my-portfolio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60186D59-B573-4958-81A0-0A8DD7A336C7}|my-portfolio\\my-portfolio.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\my-portfolio\\my-portfolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60186D59-B573-4958-81A0-0A8DD7A336C7}|my-portfolio\\my-portfolio.csproj|solutionrelative:my-portfolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60186D59-B573-4958-81A0-0A8DD7A336C7}|my-portfolio\\my-portfolio.csproj|c:\\users\\raomu_pttvukn\\source\\repos\\my-portfolio\\my-portfolio\\wwwroot\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{60186D59-B573-4958-81A0-0A8DD7A336C7}|my-portfolio\\my-portfolio.csproj|solutionrelative:my-portfolio\\wwwroot\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 234,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.js",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\my-portfolio\\my-portfolio\\wwwroot\\js\\main.js",
+              "RelativeDocumentMoniker": "my-portfolio\\wwwroot\\js\\main.js",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\my-portfolio\\my-portfolio\\wwwroot\\js\\main.js",
+              "RelativeToolTip": "my-portfolio\\wwwroot\\js\\main.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-13T02:25:46.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "my_portfolio.styles.css",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\my-portfolio\\my-portfolio\\wwwroot\\css\\my_portfolio.styles.css",
+              "RelativeDocumentMoniker": "my-portfolio\\wwwroot\\css\\my_portfolio.styles.css",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\my-portfolio\\my-portfolio\\wwwroot\\css\\my_portfolio.styles.css",
+              "RelativeToolTip": "my-portfolio\\wwwroot\\css\\my_portfolio.styles.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-13T01:16:02.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\my-portfolio\\my-portfolio\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "my-portfolio\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\my-portfolio\\my-portfolio\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "my-portfolio\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T22:47:51.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\my-portfolio\\my-portfolio\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "my-portfolio\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\my-portfolio\\my-portfolio\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "my-portfolio\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALcCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-12T22:47:37.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\raomu_pttvukn\\source\\repos\\my-portfolio\\my-portfolio\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "my-portfolio\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\raomu_pttvukn\\source\\repos\\my-portfolio\\my-portfolio\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "my-portfolio\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T22:39:53.299Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 157,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
